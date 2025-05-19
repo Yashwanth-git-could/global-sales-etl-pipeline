@@ -1,0 +1,301 @@
+SaleId,Category,Product,Qty,Sale
+JA-0001,Shoes,Reebok Shoes,10.0,880.88
+JA-0002,Perfumes,Wild Stone Perfumes,1.0,1174.03
+JA-0003,Shoes,Reebok Shoes,,1661.66
+JA-0004,Water bottles,Tupperware Water bottles,5.0,950.95
+JA-0005,Tshirts,Peter England Tshirt,2.0,1319.89
+JA-0006,Jeans,Wrangler Jeans,8.0,1075.36
+JA-0007,Smart Phone,Redmi Smart Phone,6.0,1501.5
+JA-0008,Smart Phone,Samsung Smart Phone,2.0,1501.5
+JA-0009,Jeans,Lee Jeans,1.0,1199.77
+JA-0010,Jeans,Pepe Jeans Jeans,8.0,1279.85
+JA-0011,Shoes,Bata Shoes,4.0,1661.66
+JA-0012,Smart Phone,Redmi Smart Phone,1.0,1186.9
+JA-0013,Shoes,Reebok Shoes,5.0,763.62
+JA-0014,Shoes,Adidas Shoes,3.0,1261.26
+JA-0015,Tshirts,Nike Tshirt,6.0,1527.24
+JA-0016,Perfumes,Fogg Perfumes,8.0,1174.03
+JA-0017,Shoes,Bata Shoes,3.0,1261.26
+JA-0018,Water bottles,Kinley Water bottles,8.0,999.57
+JA-0019,Shoes,Woodland Shoes,1.0,1261.26
+JA-0020,Shoes,Woodland Shoes,5.0,1082.51
+JA-0021,Jeans,Mufti Jeans,4.0,1494.35
+JA-0022,Shoes,Reebok Shoes,8.0,880.88
+JA-0023,Shoes,Adidas Shoes,10.0,1261.26
+JA-0024,Smart Phone,Redmi Smart Phone,9.0,1501.5
+JA-0025,Jeans,Mufti Jeans,9.0,933.79
+JA-0026,Tshirts,Nike Tshirt,7.0,1319.89
+JA-0027,Jeans,Pepe Jeans Jeans,3.0,1279.85
+JA-0028,Jeans,Lee Jeans,7.0,1494.35
+JA-0029,Perfumes,Park Avenue Perfumes,3.0,1174.03
+JA-0030,Perfumes,AXE Perfumes,2.0,1174.03
+JA-0031,Water bottles,Milton Water bottles,10.0,950.95
+JA-0032,Perfumes,Fogg Perfumes,7.0,1527.24
+JA-0033,Water bottles,Aquafina Water bottles,5.0,1294.15
+JA-0034,Shoes,Reebok Shoes,2.0,1261.26
+JA-0035,Smart Phone,iPhone Smart Phone,7.0,920.92
+JA-0036,Jeans,Wrangler Jeans,5.0,933.79
+JA-0037,Shoes,Adidas Shoes,7.0,1261.26
+JA-0038,Perfumes,AXE Perfumes,,1174.03
+JA-0039,Perfumes,Wild Stone Perfumes,4.0,1174.03
+JA-0040,Shoes,Nike Shoes,3.0,1517.23
+JA-0041,Perfumes,Wild Stone Perfumes,,1570.14
+JA-0042,Perfumes,AXE Perfumes,8.0,1389.96
+JA-0043,Perfumes,AXE Perfumes,3.0,1174.03
+JA-0044,Tshirts,Nike Tshirt,6.0,763.62
+JA-0045,Perfumes,Fogg Perfumes,5.0,1338.48
+JA-0046,Smart Phone,Vivo Smart Phone,9.0,1186.9
+JA-0047,Tshirts,Puma Tshirt,2.0,1668.81
+JA-0048,Jeans,Levi's Jeans,10.0,810.81
+JA-0049,Smart Phone,iPhone Smart Phone,8.0,920.92
+JA-0050,Tshirts,Nike Tshirt,2.0,1527.24
+JA-0051,Tshirts,Nike Tshirt,,1239.81
+JA-0052,Perfumes,Park Avenue Perfumes,5.0,1389.96
+JA-0053,Tshirts,Puma Tshirt,5.0,1668.81
+JA-0054,Tshirts,Puma Tshirt,5.0,1319.89
+JA-0055,Tshirts,Puma Tshirt,7.0,763.62
+JA-0056,Smart Phone,OnePlus Smart Phone,1.0,1520.09
+JA-0057,Jeans,Pepe Jeans Jeans,6.0,1494.35
+JA-0058,Smart Phone,OnePlus Smart Phone,6.0,1384.24
+JA-0059,Jeans,Lee Jeans,3.0,1494.35
+JA-0060,Shoes,Adidas Shoes,10.0,1661.66
+JA-0061,Jeans,Wrangler Jeans,1.0,1199.77
+JA-0062,Smart Phone,iPhone Smart Phone,4.0,1520.09
+JA-0063,Water bottles,Tupperware Water bottles,2.0,950.95
+JA-0064,Water bottles,Kinley Water bottles,5.0,999.57
+JA-0065,Jeans,Wrangler Jeans,4.0,1199.77
+JA-0066,Perfumes,Wild Stone Perfumes,4.0,1570.14
+JA-0067,Jeans,Mufti Jeans,7.0,1494.35
+JA-0068,Smart Phone,Samsung Smart Phone,3.0,1186.9
+JA-0069,Shoes,Adidas Shoes,3.0,1261.26
+JA-0070,Water bottles,Tupperware Water bottles,10.0,1437.15
+JA-0071,Water bottles,Tupperware Water bottles,8.0,777.92
+JA-0072,Water bottles,Tupperware Water bottles,9.0,999.57
+JA-0073,Perfumes,Fogg Perfumes,3.0,1570.14
+JA-0074,Perfumes,Denver Perfumes,4.0,1389.96
+JA-0075,Perfumes,AXE Perfumes,9.0,1570.14
+JA-0076,Smart Phone,Samsung Smart Phone,1.0,920.92
+JA-0077,Water bottles,Tupperware Water bottles,3.0,777.92
+JA-0078,Smart Phone,OnePlus Smart Phone,5.0,1186.9
+JA-0079,Shoes,Nike Shoes,4.0,1261.26
+JA-0080,Jeans,Mufti Jeans,6.0,1279.85
+JA-0081,Water bottles,Tupperware Water bottles,1.0,999.57
+JA-0082,Smart Phone,Redmi Smart Phone,7.0,920.92
+JA-0083,Water bottles,Cello Water bottles,5.0,1294.15
+JA-0084,Shoes,Reebok Shoes,2.0,880.88
+JA-0085,Shoes,Woodland Shoes,6.0,1261.26
+JA-0086,Water bottles,Aquafina Water bottles,4.0,999.57
+JA-0087,Smart Phone,Redmi Smart Phone,6.0,1186.9
+JA-0088,Tshirts,Zara Tshirt,9.0,1239.81
+JA-0089,Shoes,Reebok Shoes,7.0,1517.23
+JA-0090,Water bottles,Milton Water bottles,3.0,777.92
+JA-0091,Water bottles,Cello Water bottles,8.0,926.64
+JA-0092,Tshirts,Adidas Tshirt,1.0,763.62
+JA-0093,Jeans,Pepe Jeans Jeans,7.0,1494.35
+JA-0094,Jeans,Levi's Jeans,6.0,1494.35
+JA-0095,Tshirts,Peter England Tshirt,10.0,1061.06
+JA-0096,Water bottles,Milton Water bottles,3.0,926.64
+JA-0097,Shoes,Bata Shoes,6.0,763.62
+JA-0098,Tshirts,Zara Tshirt,3.0,763.62
+JA-0099,Water bottles,Cello Water bottles,2.0,777.92
+JA-0100,Jeans,Levi's Jeans,6.0,1494.35
+JA-0101,Tshirts,Nike Tshirt,2.0,1527.24
+JA-0102,Jeans,Pepe Jeans Jeans,6.0,1494.35
+JA-0103,Shoes,Adidas Shoes,9.0,1661.66
+JA-0104,Smart Phone,Vivo Smart Phone,4.0,1510.08
+JA-0105,Perfumes,Denver Perfumes,5.0,1527.24
+JA-0106,Tshirts,Zara Tshirt,5.0,1319.89
+JA-0107,Smart Phone,Samsung Smart Phone,6.0,920.92
+JA-0108,Water bottles,Tupperware Water bottles,8.0,1294.15
+JA-0109,Tshirts,Peter England Tshirt,4.0,1668.81
+JA-0110,Shoes,Reebok Shoes,7.0,763.62
+JA-0111,Tshirts,Zara Tshirt,7.0,1239.81
+JA-0112,Jeans,Mufti Jeans,10.0,933.79
+JA-0113,Jeans,Wrangler Jeans,7.0,1199.77
+JA-0114,Water bottles,Aquafina Water bottles,5.0,950.95
+JA-0115,Smart Phone,Redmi Smart Phone,8.0,920.92
+JA-0116,Water bottles,Kinley Water bottles,1.0,950.95
+JA-0117,Tshirts,Zara Tshirt,1.0,1319.89
+JA-0118,Shoes,Nike Shoes,10.0,1261.26
+JA-0119,Smart Phone,Samsung Smart Phone,7.0,920.92
+JA-0120,Water bottles,Tupperware Water bottles,8.0,999.57
+JA-0121,Water bottles,Milton Water bottles,4.0,950.95
+JA-0122,Perfumes,Fogg Perfumes,10.0,1389.96
+JA-0123,Jeans,Pepe Jeans Jeans,2.0,810.81
+JA-0124,Water bottles,Kinley Water bottles,1.0,777.92
+JA-0125,Water bottles,Tupperware Water bottles,7.0,999.57
+JA-0126,Jeans,Levi's Jeans,2.0,1494.35
+JA-0127,Shoes,Adidas Shoes,5.0,1261.26
+JA-0128,Jeans,Levi's Jeans,7.0,1199.77
+JA-0129,Jeans,Levi's Jeans,4.0,810.81
+JA-0130,Smart Phone,Samsung Smart Phone,,1186.9
+JA-0131,Shoes,Woodland Shoes,2.0,880.88
+JA-0132,Smart Phone,Redmi Smart Phone,2.0,1510.08
+JA-0133,Water bottles,Cello Water bottles,6.0,1294.15
+JA-0134,Tshirts,Zara Tshirt,4.0,1527.24
+JA-0135,Perfumes,AXE Perfumes,3.0,1338.48
+JA-0136,Shoes,Reebok Shoes,1.0,1661.66
+JA-0137,Tshirts,Adidas Tshirt,4.0,1061.06
+JA-0138,Jeans,Mufti Jeans,10.0,933.79
+JA-0139,Water bottles,Cello Water bottles,4.0,950.95
+JA-0140,Jeans,Mufti Jeans,2.0,1279.85
+JA-0141,Perfumes,Denver Perfumes,6.0,1389.96
+JA-0142,Water bottles,Aquafina Water bottles,2.0,999.57
+JA-0143,Jeans,Mufti Jeans,2.0,1199.77
+JA-0144,Smart Phone,Redmi Smart Phone,2.0,1510.08
+JA-0145,Shoes,Nike Shoes,4.0,763.62
+JA-0146,Shoes,Adidas Shoes,10.0,1082.51
+JA-0147,Water bottles,Tupperware Water bottles,10.0,926.64
+JA-0148,Jeans,Levi's Jeans,6.0,810.81
+JA-0149,Jeans,Pepe Jeans Jeans,6.0,1075.36
+JA-0150,Smart Phone,Vivo Smart Phone,1.0,1384.24
+JA-0151,Smart Phone,iPhone Smart Phone,5.0,1520.09
+JA-0152,Tshirts,Nike Tshirt,10.0,1239.81
+JA-0153,Tshirts,Nike Tshirt,2.0,1668.81
+JA-0154,Water bottles,Cello Water bottles,3.0,1294.15
+JA-0155,Smart Phone,Vivo Smart Phone,10.0,1186.9
+JA-0156,Jeans,Pepe Jeans Jeans,2.0,810.81
+JA-0157,Smart Phone,iPhone Smart Phone,6.0,1501.5
+JA-0158,Perfumes,Park Avenue Perfumes,,1338.48
+JA-0159,Shoes,Woodland Shoes,1.0,1261.26
+JA-0160,Tshirts,Adidas Tshirt,3.0,1668.81
+JA-0161,Smart Phone,Vivo Smart Phone,5.0,1501.5
+JA-0162,Smart Phone,Vivo Smart Phone,9.0,1520.09
+JA-0163,Perfumes,Wild Stone Perfumes,4.0,1338.48
+JA-0164,Water bottles,Kinley Water bottles,1.0,1294.15
+JA-0165,Tshirts,Adidas Tshirt,4.0,1061.06
+JA-0166,Tshirts,Nike Tshirt,10.0,1239.81
+JA-0167,Smart Phone,Redmi Smart Phone,3.0,1510.08
+JA-0168,Perfumes,AXE Perfumes,5.0,1389.96
+JA-0169,Tshirts,Zara Tshirt,2.0,1527.24
+JA-0170,Perfumes,AXE Perfumes,2.0,1389.96
+JA-0171,Tshirts,Puma Tshirt,6.0,1527.24
+JA-0172,Smart Phone,Samsung Smart Phone,9.0,1520.09
+JA-0173,Perfumes,Denver Perfumes,8.0,1389.96
+JA-0174,Tshirts,Nike Tshirt,8.0,1061.06
+JA-0175,Perfumes,Wild Stone Perfumes,1.0,1174.03
+JA-0176,Jeans,Lee Jeans,7.0,1075.36
+JA-0177,Jeans,Lee Jeans,7.0,933.79
+JA-0178,Shoes,Reebok Shoes,4.0,880.88
+JA-0179,Shoes,Reebok Shoes,1.0,763.62
+JA-0180,Tshirts,Puma Tshirt,6.0,1319.89
+JA-0181,Water bottles,Tupperware Water bottles,1.0,1437.15
+JA-0182,Perfumes,Park Avenue Perfumes,10.0,1174.03
+JA-0183,Jeans,Wrangler Jeans,6.0,1199.77
+JA-0184,Jeans,Levi's Jeans,5.0,1199.77
+JA-0185,Shoes,Adidas Shoes,5.0,1661.66
+JA-0186,Tshirts,Peter England Tshirt,2.0,763.62
+JA-0187,Tshirts,Peter England Tshirt,1.0,1061.06
+JA-0188,Shoes,Nike Shoes,5.0,1661.66
+JA-0189,Tshirts,Adidas Tshirt,7.0,1319.89
+JA-0190,Shoes,Woodland Shoes,,1517.23
+JA-0191,Tshirts,Zara Tshirt,2.0,763.62
+JA-0192,Tshirts,Zara Tshirt,10.0,1319.89
+JA-0193,Water bottles,Milton Water bottles,8.0,777.92
+JA-0194,Smart Phone,Samsung Smart Phone,5.0,920.92
+JA-0195,Smart Phone,Redmi Smart Phone,9.0,920.92
+JA-0196,Perfumes,Wild Stone Perfumes,5.0,1527.24
+JA-0197,Tshirts,Peter England Tshirt,,763.62
+JA-0198,Perfumes,Park Avenue Perfumes,1.0,1338.48
+JA-0199,Perfumes,Fogg Perfumes,7.0,1174.03
+JA-0200,Tshirts,Peter England Tshirt,9.0,1239.81
+JA-0201,Smart Phone,Samsung Smart Phone,8.0,920.92
+JA-0202,Perfumes,Fogg Perfumes,,1338.48
+JA-0203,Smart Phone,OnePlus Smart Phone,8.0,1520.09
+JA-0204,Smart Phone,Samsung Smart Phone,1.0,1384.24
+JA-0205,Smart Phone,iPhone Smart Phone,3.0,1510.08
+JA-0206,Tshirts,Puma Tshirt,6.0,763.62
+JA-0207,Perfumes,Wild Stone Perfumes,2.0,1570.14
+JA-0208,Shoes,Nike Shoes,1.0,763.62
+JA-0209,Tshirts,Puma Tshirt,5.0,1239.81
+JA-0210,Tshirts,Zara Tshirt,10.0,1668.81
+JA-0211,Perfumes,Park Avenue Perfumes,8.0,1174.03
+JA-0212,Shoes,Adidas Shoes,7.0,1517.23
+JA-0213,Water bottles,Aquafina Water bottles,5.0,1294.15
+JA-0214,Tshirts,Peter England Tshirt,3.0,763.62
+JA-0215,Smart Phone,Vivo Smart Phone,4.0,920.92
+JA-0216,Perfumes,Wild Stone Perfumes,5.0,1527.24
+JA-0217,Tshirts,Puma Tshirt,6.0,763.62
+JA-0218,Water bottles,Aquafina Water bottles,9.0,777.92
+JA-0219,Smart Phone,OnePlus Smart Phone,4.0,1384.24
+JA-0220,Smart Phone,iPhone Smart Phone,4.0,1186.9
+JA-0221,Smart Phone,Vivo Smart Phone,,1501.5
+JA-0222,Tshirts,Nike Tshirt,10.0,1527.24
+JA-0223,Smart Phone,Samsung Smart Phone,10.0,1384.24
+JA-0224,Perfumes,Denver Perfumes,3.0,1338.48
+JA-0225,Perfumes,Park Avenue Perfumes,3.0,1174.03
+JA-0226,Jeans,Levi's Jeans,1.0,933.79
+JA-0227,Smart Phone,Redmi Smart Phone,6.0,1384.24
+JA-0228,Perfumes,Park Avenue Perfumes,6.0,1570.14
+JA-0229,Shoes,Woodland Shoes,7.0,1261.26
+JA-0230,Water bottles,Milton Water bottles,8.0,1294.15
+JA-0231,Perfumes,Fogg Perfumes,2.0,1174.03
+JA-0232,Smart Phone,iPhone Smart Phone,9.0,1186.9
+JA-0233,Tshirts,Nike Tshirt,2.0,1668.81
+JA-0234,Water bottles,Kinley Water bottles,8.0,926.64
+JA-0235,Shoes,Woodland Shoes,2.0,1261.26
+JA-0236,Water bottles,Tupperware Water bottles,5.0,777.92
+JA-0237,Smart Phone,Redmi Smart Phone,5.0,1384.24
+JA-0238,Jeans,Lee Jeans,7.0,1494.35
+JA-0239,Shoes,Bata Shoes,1.0,1261.26
+JA-0240,Jeans,Mufti Jeans,6.0,1494.35
+JA-0241,Jeans,Levi's Jeans,6.0,1075.36
+JA-0242,Smart Phone,Redmi Smart Phone,9.0,1520.09
+JA-0243,Perfumes,Park Avenue Perfumes,,1389.96
+JA-0244,Tshirts,Zara Tshirt,,1319.89
+JA-0245,Shoes,Nike Shoes,10.0,1517.23
+JA-0246,Tshirts,Zara Tshirt,9.0,763.62
+JA-0247,Perfumes,Denver Perfumes,10.0,1389.96
+JA-0248,Shoes,Reebok Shoes,10.0,1661.66
+JA-0249,Water bottles,Kinley Water bottles,9.0,999.57
+JA-0250,Perfumes,Wild Stone Perfumes,1.0,1527.24
+JA-0251,Jeans,Pepe Jeans Jeans,4.0,810.81
+JA-0252,Jeans,Levi's Jeans,9.0,933.79
+JA-0253,Smart Phone,Vivo Smart Phone,,1501.5
+JA-0254,Jeans,Lee Jeans,4.0,1199.77
+JA-0255,Shoes,Reebok Shoes,8.0,1261.26
+JA-0256,Smart Phone,Redmi Smart Phone,6.0,1384.24
+JA-0257,Jeans,Wrangler Jeans,8.0,933.79
+JA-0258,Smart Phone,Samsung Smart Phone,4.0,1510.08
+JA-0259,Tshirts,Puma Tshirt,8.0,763.62
+JA-0260,Water bottles,Cello Water bottles,7.0,950.95
+JA-0261,Jeans,Lee Jeans,3.0,1279.85
+JA-0262,Jeans,Mufti Jeans,5.0,810.81
+JA-0263,Smart Phone,Samsung Smart Phone,2.0,920.92
+JA-0264,Jeans,Lee Jeans,8.0,933.79
+JA-0265,Smart Phone,Samsung Smart Phone,6.0,1501.5
+JA-0266,Smart Phone,iPhone Smart Phone,5.0,1384.24
+JA-0267,Smart Phone,OnePlus Smart Phone,10.0,920.92
+JA-0268,Perfumes,AXE Perfumes,4.0,1174.03
+JA-0269,Tshirts,Peter England Tshirt,10.0,1527.24
+JA-0270,Jeans,Lee Jeans,5.0,1199.77
+JA-0271,Shoes,Bata Shoes,7.0,1082.51
+JA-0272,Shoes,Woodland Shoes,5.0,763.62
+JA-0273,Water bottles,Milton Water bottles,1.0,926.64
+JA-0274,Shoes,Adidas Shoes,10.0,1661.66
+JA-0275,Water bottles,Cello Water bottles,4.0,777.92
+JA-0276,Shoes,Adidas Shoes,7.0,1261.26
+JA-0277,Smart Phone,Vivo Smart Phone,3.0,1520.09
+JA-0278,Jeans,Mufti Jeans,5.0,1199.77
+JA-0279,Perfumes,AXE Perfumes,9.0,1174.03
+JA-0280,Water bottles,Milton Water bottles,4.0,999.57
+JA-0281,Jeans,Mufti Jeans,10.0,933.79
+JA-0282,Water bottles,Kinley Water bottles,2.0,999.57
+JA-0283,Smart Phone,Vivo Smart Phone,2.0,1501.5
+JA-0284,Water bottles,Cello Water bottles,2.0,926.64
+JA-0285,Water bottles,Tupperware Water bottles,6.0,1294.15
+JA-0286,Water bottles,Cello Water bottles,4.0,999.57
+JA-0287,Shoes,Nike Shoes,10.0,1082.51
+JA-0288,Smart Phone,Vivo Smart Phone,3.0,1186.9
+JA-0289,Shoes,Woodland Shoes,1.0,880.88
+JA-0290,Water bottles,Milton Water bottles,5.0,1294.15
+JA-0291,Shoes,Reebok Shoes,5.0,880.88
+JA-0292,Shoes,Nike Shoes,3.0,880.88
+JA-0293,Jeans,Mufti Jeans,6.0,1494.35
+JA-0294,Tshirts,Peter England Tshirt,9.0,1527.24
+JA-0295,Water bottles,Cello Water bottles,7.0,926.64
+JA-0296,Shoes,Nike Shoes,7.0,1661.66
+JA-0297,Tshirts,Peter England Tshirt,6.0,1319.89
+JA-0298,Tshirts,Adidas Tshirt,4.0,1239.81
+JA-0299,Water bottles,Milton Water bottles,3.0,999.57
+JA-0300,Water bottles,Kinley Water bottles,1.0,999.57

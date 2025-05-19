@@ -1,0 +1,301 @@
+SaleId,Category,Product,Qty,Sale
+GE-0001,Jeans,Levi's Jeans,3.0,6.24
+GE-0002,Jeans,Mufti Jeans,4.0,8.27
+GE-0003,Shoes,Nike Shoes,6.0,5.87
+GE-0004,Water bottles,Tupperware Water bottles,6.0,7.31
+GE-0005,Shoes,Adidas Shoes,,6.78
+GE-0006,Shoes,Nike Shoes,1.0,12.78
+GE-0007,Water bottles,Milton Water bottles,5.0,7.13
+GE-0008,Smart Phone,iPhone Smart Phone,8.0,11.55
+GE-0009,Smart Phone,Redmi Smart Phone,2.0,7.08
+GE-0010,Perfumes,Wild Stone Perfumes,9.0,9.03
+GE-0011,Jeans,Lee Jeans,3.0,7.18
+GE-0012,Tshirts,Puma Tshirt,8.0,9.54
+GE-0013,Shoes,Nike Shoes,10.0,6.78
+GE-0014,Jeans,Levi's Jeans,1.0,11.49
+GE-0015,Shoes,Bata Shoes,10.0,11.67
+GE-0016,Jeans,Levi's Jeans,8.0,9.23
+GE-0017,Smart Phone,Redmi Smart Phone,,11.62
+GE-0018,Smart Phone,iPhone Smart Phone,5.0,10.65
+GE-0019,Water bottles,Milton Water bottles,1.0,7.13
+GE-0020,Water bottles,Tupperware Water bottles,5.0,7.69
+GE-0021,Perfumes,Wild Stone Perfumes,4.0,9.03
+GE-0022,Water bottles,Kinley Water bottles,10.0,7.69
+GE-0023,Shoes,Woodland Shoes,7.0,9.7
+GE-0024,Water bottles,Cello Water bottles,8.0,5.98
+GE-0025,Smart Phone,iPhone Smart Phone,8.0,7.08
+GE-0026,Water bottles,Tupperware Water bottles,5.0,11.05
+GE-0027,Jeans,Lee Jeans,1.0,8.27
+GE-0028,Water bottles,Cello Water bottles,1.0,7.31
+GE-0029,Shoes,Woodland Shoes,3.0,12.78
+GE-0030,Jeans,Mufti Jeans,8.0,8.27
+GE-0031,Water bottles,Cello Water bottles,2.0,9.96
+GE-0032,Water bottles,Milton Water bottles,3.0,7.69
+GE-0033,Water bottles,Kinley Water bottles,9.0,7.13
+GE-0034,Water bottles,Kinley Water bottles,8.0,11.05
+GE-0035,Tshirts,Peter England Tshirt,9.0,9.54
+GE-0036,Water bottles,Aquafina Water bottles,6.0,7.13
+GE-0037,Smart Phone,Vivo Smart Phone,1.0,11.62
+GE-0038,Jeans,Wrangler Jeans,7.0,7.18
+GE-0039,Water bottles,Kinley Water bottles,9.0,7.69
+GE-0040,Water bottles,Milton Water bottles,4.0,9.96
+GE-0041,Smart Phone,Vivo Smart Phone,1.0,11.55
+GE-0042,Water bottles,Aquafina Water bottles,3.0,7.69
+GE-0043,Water bottles,Tupperware Water bottles,7.0,7.13
+GE-0044,Shoes,Adidas Shoes,9.0,11.67
+GE-0045,Shoes,Woodland Shoes,9.0,11.67
+GE-0046,Tshirts,Adidas Tshirt,5.0,10.15
+GE-0047,Water bottles,Cello Water bottles,,7.13
+GE-0048,Jeans,Lee Jeans,1.0,9.23
+GE-0049,Tshirts,Zara Tshirt,10.0,11.75
+GE-0050,Perfumes,AXE Perfumes,7.0,10.3
+GE-0051,Tshirts,Adidas Tshirt,7.0,12.84
+GE-0052,Jeans,Pepe Jeans Jeans,2.0,7.18
+GE-0053,Perfumes,AXE Perfumes,2.0,11.75
+GE-0054,Shoes,Adidas Shoes,10.0,5.87
+GE-0055,Shoes,Reebok Shoes,8.0,11.67
+GE-0056,Jeans,Levi's Jeans,5.0,11.49
+GE-0057,Perfumes,Wild Stone Perfumes,8.0,12.08
+GE-0058,Tshirts,Adidas Tshirt,9.0,11.75
+GE-0059,Smart Phone,iPhone Smart Phone,2.0,10.65
+GE-0060,Shoes,Nike Shoes,10.0,12.78
+GE-0061,Water bottles,Kinley Water bottles,8.0,7.69
+GE-0062,Perfumes,Park Avenue Perfumes,10.0,9.03
+GE-0063,Tshirts,Zara Tshirt,3.0,8.16
+GE-0064,Perfumes,Denver Perfumes,5.0,12.08
+GE-0065,Tshirts,Puma Tshirt,5.0,5.87
+GE-0066,Smart Phone,Vivo Smart Phone,8.0,10.65
+GE-0067,Jeans,Lee Jeans,9.0,9.23
+GE-0068,Water bottles,Kinley Water bottles,2.0,7.13
+GE-0069,Tshirts,Nike Tshirt,2.0,11.75
+GE-0070,Jeans,Mufti Jeans,9.0,9.84
+GE-0071,Tshirts,Puma Tshirt,5.0,5.87
+GE-0072,Jeans,Mufti Jeans,4.0,9.23
+GE-0073,Tshirts,Zara Tshirt,7.0,5.87
+GE-0074,Jeans,Mufti Jeans,2.0,9.23
+GE-0075,Smart Phone,OnePlus Smart Phone,4.0,11.62
+GE-0076,Shoes,Nike Shoes,8.0,12.78
+GE-0077,Shoes,Nike Shoes,3.0,8.33
+GE-0078,Water bottles,Cello Water bottles,7.0,5.98
+GE-0079,Tshirts,Adidas Tshirt,3.0,8.16
+GE-0080,Smart Phone,Redmi Smart Phone,4.0,7.08
+GE-0081,Tshirts,Zara Tshirt,5.0,10.15
+GE-0082,Water bottles,Milton Water bottles,9.0,5.98
+GE-0083,Shoes,Woodland Shoes,4.0,9.7
+GE-0084,Water bottles,Aquafina Water bottles,10.0,7.31
+GE-0085,Water bottles,Cello Water bottles,7.0,9.96
+GE-0086,Water bottles,Cello Water bottles,6.0,11.05
+GE-0087,Shoes,Woodland Shoes,3.0,9.7
+GE-0088,Tshirts,Puma Tshirt,5.0,9.54
+GE-0089,Perfumes,Wild Stone Perfumes,5.0,9.03
+GE-0090,Smart Phone,OnePlus Smart Phone,1.0,11.69
+GE-0091,Jeans,Mufti Jeans,9.0,9.84
+GE-0092,Jeans,Wrangler Jeans,8.0,9.84
+GE-0093,Smart Phone,Samsung Smart Phone,5.0,11.62
+GE-0094,Water bottles,Kinley Water bottles,7.0,5.98
+GE-0095,Shoes,Adidas Shoes,7.0,8.33
+GE-0096,Tshirts,Nike Tshirt,6.0,8.16
+GE-0097,Water bottles,Aquafina Water bottles,6.0,5.98
+GE-0098,Perfumes,AXE Perfumes,6.0,12.08
+GE-0099,Jeans,Pepe Jeans Jeans,6.0,7.18
+GE-0100,Shoes,Nike Shoes,3.0,5.87
+GE-0101,Jeans,Mufti Jeans,6.0,9.84
+GE-0102,Perfumes,AXE Perfumes,2.0,10.3
+GE-0103,Perfumes,AXE Perfumes,8.0,11.75
+GE-0104,Shoes,Bata Shoes,9.0,11.67
+GE-0105,Smart Phone,OnePlus Smart Phone,5.0,10.65
+GE-0106,Perfumes,AXE Perfumes,5.0,9.03
+GE-0107,Tshirts,Zara Tshirt,9.0,10.15
+GE-0108,Water bottles,Cello Water bottles,7.0,11.05
+GE-0109,Perfumes,Park Avenue Perfumes,7.0,9.03
+GE-0110,Smart Phone,OnePlus Smart Phone,7.0,11.55
+GE-0111,Smart Phone,Samsung Smart Phone,2.0,11.62
+GE-0112,Tshirts,Peter England Tshirt,6.0,5.87
+GE-0113,Perfumes,Wild Stone Perfumes,5.0,10.3
+GE-0114,Jeans,Pepe Jeans Jeans,8.0,11.49
+GE-0115,Perfumes,Park Avenue Perfumes,1.0,12.08
+GE-0116,Perfumes,Park Avenue Perfumes,8.0,10.3
+GE-0117,Perfumes,AXE Perfumes,7.0,10.3
+GE-0118,Tshirts,Puma Tshirt,10.0,10.15
+GE-0119,Water bottles,Milton Water bottles,4.0,11.05
+GE-0120,Water bottles,Milton Water bottles,4.0,5.98
+GE-0121,Smart Phone,iPhone Smart Phone,4.0,7.08
+GE-0122,Jeans,Pepe Jeans Jeans,3.0,6.24
+GE-0123,Smart Phone,iPhone Smart Phone,3.0,7.08
+GE-0124,Perfumes,AXE Perfumes,5.0,10.69
+GE-0125,Perfumes,Denver Perfumes,6.0,9.03
+GE-0126,Jeans,Levi's Jeans,9.0,6.24
+GE-0127,Perfumes,Fogg Perfumes,2.0,10.69
+GE-0128,Smart Phone,Vivo Smart Phone,2.0,11.55
+GE-0129,Water bottles,Milton Water bottles,5.0,11.05
+GE-0130,Jeans,Pepe Jeans Jeans,4.0,8.27
+GE-0131,Perfumes,Fogg Perfumes,7.0,12.08
+GE-0132,Smart Phone,Samsung Smart Phone,5.0,10.65
+GE-0133,Water bottles,Aquafina Water bottles,5.0,11.05
+GE-0134,Tshirts,Zara Tshirt,7.0,5.87
+GE-0135,Smart Phone,Redmi Smart Phone,9.0,11.62
+GE-0136,Shoes,Reebok Shoes,9.0,5.87
+GE-0137,Tshirts,Peter England Tshirt,10.0,10.15
+GE-0138,Water bottles,Milton Water bottles,6.0,5.98
+GE-0139,Smart Phone,iPhone Smart Phone,8.0,10.65
+GE-0140,Perfumes,Wild Stone Perfumes,1.0,10.69
+GE-0141,Water bottles,Kinley Water bottles,5.0,5.98
+GE-0142,Tshirts,Adidas Tshirt,5.0,10.15
+GE-0143,Perfumes,Denver Perfumes,7.0,10.69
+GE-0144,Shoes,Bata Shoes,4.0,11.67
+GE-0145,Jeans,Lee Jeans,4.0,9.23
+GE-0146,Water bottles,Milton Water bottles,3.0,7.13
+GE-0147,Water bottles,Aquafina Water bottles,4.0,7.31
+GE-0148,Perfumes,AXE Perfumes,4.0,10.69
+GE-0149,Jeans,Lee Jeans,1.0,7.18
+GE-0150,Shoes,Woodland Shoes,1.0,8.33
+GE-0151,Shoes,Woodland Shoes,2.0,12.78
+GE-0152,Smart Phone,Redmi Smart Phone,4.0,9.13
+GE-0153,Tshirts,Peter England Tshirt,2.0,9.54
+GE-0154,Jeans,Levi's Jeans,8.0,7.18
+GE-0155,Perfumes,Park Avenue Perfumes,1.0,10.3
+GE-0156,Tshirts,Zara Tshirt,7.0,10.15
+GE-0157,Shoes,Reebok Shoes,9.0,11.67
+GE-0158,Tshirts,Adidas Tshirt,4.0,12.84
+GE-0159,Shoes,Bata Shoes,4.0,11.67
+GE-0160,Jeans,Levi's Jeans,2.0,11.49
+GE-0161,Smart Phone,Vivo Smart Phone,7.0,11.69
+GE-0162,Water bottles,Cello Water bottles,9.0,7.13
+GE-0163,Jeans,Pepe Jeans Jeans,1.0,11.49
+GE-0164,Water bottles,Kinley Water bottles,2.0,5.98
+GE-0165,Shoes,Bata Shoes,,8.33
+GE-0166,Jeans,Wrangler Jeans,6.0,9.23
+GE-0167,Perfumes,Wild Stone Perfumes,5.0,9.03
+GE-0168,Water bottles,Milton Water bottles,2.0,9.96
+GE-0169,Shoes,Bata Shoes,8.0,8.33
+GE-0170,Tshirts,Nike Tshirt,4.0,8.16
+GE-0171,Smart Phone,Samsung Smart Phone,4.0,9.13
+GE-0172,Perfumes,Fogg Perfumes,3.0,10.69
+GE-0173,Tshirts,Puma Tshirt,9.0,10.15
+GE-0174,Jeans,Levi's Jeans,1.0,9.23
+GE-0175,Smart Phone,Redmi Smart Phone,7.0,7.08
+GE-0176,Shoes,Woodland Shoes,4.0,8.33
+GE-0177,Smart Phone,iPhone Smart Phone,8.0,7.08
+GE-0178,Tshirts,Zara Tshirt,2.0,5.87
+GE-0179,Water bottles,Milton Water bottles,8.0,7.69
+GE-0180,Shoes,Woodland Shoes,2.0,5.87
+GE-0181,Perfumes,Denver Perfumes,4.0,10.69
+GE-0182,Tshirts,Nike Tshirt,2.0,12.84
+GE-0183,Smart Phone,Redmi Smart Phone,8.0,7.08
+GE-0184,Perfumes,Fogg Perfumes,7.0,10.69
+GE-0185,Shoes,Adidas Shoes,8.0,6.78
+GE-0186,Shoes,Woodland Shoes,4.0,11.67
+GE-0187,Jeans,Mufti Jeans,6.0,6.24
+GE-0188,Jeans,Lee Jeans,6.0,6.24
+GE-0189,Tshirts,Puma Tshirt,4.0,8.16
+GE-0190,Smart Phone,Vivo Smart Phone,7.0,10.65
+GE-0191,Shoes,Bata Shoes,3.0,5.87
+GE-0192,Tshirts,Zara Tshirt,2.0,9.54
+GE-0193,Smart Phone,iPhone Smart Phone,4.0,7.08
+GE-0194,Perfumes,Fogg Perfumes,5.0,10.69
+GE-0195,Water bottles,Milton Water bottles,9.0,11.05
+GE-0196,Water bottles,Cello Water bottles,7.0,9.96
+GE-0197,Jeans,Mufti Jeans,10.0,6.24
+GE-0198,Smart Phone,Samsung Smart Phone,5.0,10.65
+GE-0199,Tshirts,Peter England Tshirt,2.0,5.87
+GE-0200,Water bottles,Aquafina Water bottles,8.0,9.96
+GE-0201,Jeans,Levi's Jeans,6.0,7.18
+GE-0202,Smart Phone,iPhone Smart Phone,1.0,9.13
+GE-0203,Tshirts,Puma Tshirt,2.0,12.84
+GE-0204,Jeans,Mufti Jeans,10.0,9.23
+GE-0205,Perfumes,Wild Stone Perfumes,4.0,12.08
+GE-0206,Water bottles,Aquafina Water bottles,3.0,5.98
+GE-0207,Perfumes,Park Avenue Perfumes,7.0,11.75
+GE-0208,Shoes,Reebok Shoes,,9.7
+GE-0209,Jeans,Lee Jeans,8.0,11.49
+GE-0210,Perfumes,Denver Perfumes,7.0,10.3
+GE-0211,Perfumes,AXE Perfumes,3.0,11.75
+GE-0212,Tshirts,Puma Tshirt,7.0,11.75
+GE-0213,Shoes,Bata Shoes,3.0,12.78
+GE-0214,Tshirts,Adidas Tshirt,3.0,9.54
+GE-0215,Water bottles,Kinley Water bottles,2.0,7.31
+GE-0216,Jeans,Pepe Jeans Jeans,4.0,6.24
+GE-0217,Perfumes,Denver Perfumes,6.0,10.3
+GE-0218,Jeans,Levi's Jeans,3.0,7.18
+GE-0219,Jeans,Wrangler Jeans,6.0,8.27
+GE-0220,Tshirts,Peter England Tshirt,6.0,12.84
+GE-0221,Perfumes,Denver Perfumes,5.0,10.3
+GE-0222,Shoes,Woodland Shoes,6.0,9.7
+GE-0223,Tshirts,Puma Tshirt,3.0,10.15
+GE-0224,Perfumes,Wild Stone Perfumes,3.0,10.69
+GE-0225,Jeans,Mufti Jeans,9.0,8.27
+GE-0226,Tshirts,Zara Tshirt,2.0,12.84
+GE-0227,Tshirts,Peter England Tshirt,,5.87
+GE-0228,Perfumes,AXE Perfumes,2.0,10.69
+GE-0229,Jeans,Pepe Jeans Jeans,9.0,8.27
+GE-0230,Jeans,Mufti Jeans,4.0,6.24
+GE-0231,Smart Phone,Redmi Smart Phone,8.0,11.62
+GE-0232,Jeans,Mufti Jeans,3.0,11.49
+GE-0233,Perfumes,Denver Perfumes,8.0,10.69
+GE-0234,Water bottles,Aquafina Water bottles,3.0,7.31
+GE-0235,Water bottles,Milton Water bottles,7.0,11.05
+GE-0236,Smart Phone,OnePlus Smart Phone,2.0,7.08
+GE-0237,Water bottles,Milton Water bottles,7.0,5.98
+GE-0238,Smart Phone,OnePlus Smart Phone,8.0,11.55
+GE-0239,Perfumes,Park Avenue Perfumes,4.0,11.75
+GE-0240,Perfumes,Park Avenue Perfumes,5.0,12.08
+GE-0241,Water bottles,Kinley Water bottles,8.0,5.98
+GE-0242,Jeans,Mufti Jeans,7.0,11.49
+GE-0243,Jeans,Wrangler Jeans,5.0,11.49
+GE-0244,Perfumes,AXE Perfumes,6.0,10.3
+GE-0245,Smart Phone,Samsung Smart Phone,9.0,11.62
+GE-0246,Shoes,Woodland Shoes,9.0,6.78
+GE-0247,Jeans,Levi's Jeans,9.0,11.49
+GE-0248,Jeans,Lee Jeans,4.0,8.27
+GE-0249,Jeans,Levi's Jeans,3.0,9.23
+GE-0250,Shoes,Bata Shoes,6.0,5.87
+GE-0251,Shoes,Reebok Shoes,1.0,11.67
+GE-0252,Water bottles,Kinley Water bottles,10.0,11.05
+GE-0253,Water bottles,Cello Water bottles,3.0,7.31
+GE-0254,Perfumes,Park Avenue Perfumes,8.0,9.03
+GE-0255,Tshirts,Peter England Tshirt,7.0,8.16
+GE-0256,Shoes,Bata Shoes,2.0,6.78
+GE-0257,Jeans,Mufti Jeans,,7.18
+GE-0258,Smart Phone,Vivo Smart Phone,9.0,11.55
+GE-0259,Tshirts,Peter England Tshirt,7.0,12.84
+GE-0260,Smart Phone,Redmi Smart Phone,7.0,11.69
+GE-0261,Perfumes,Wild Stone Perfumes,1.0,12.08
+GE-0262,Jeans,Wrangler Jeans,4.0,7.18
+GE-0263,Shoes,Woodland Shoes,7.0,8.33
+GE-0264,Smart Phone,Redmi Smart Phone,3.0,7.08
+GE-0265,Water bottles,Cello Water bottles,10.0,5.98
+GE-0266,Perfumes,Wild Stone Perfumes,5.0,9.03
+GE-0267,Shoes,Nike Shoes,9.0,5.87
+GE-0268,Water bottles,Kinley Water bottles,5.0,5.98
+GE-0269,Water bottles,Cello Water bottles,4.0,9.96
+GE-0270,Smart Phone,iPhone Smart Phone,10.0,9.13
+GE-0271,Water bottles,Cello Water bottles,1.0,7.69
+GE-0272,Perfumes,Denver Perfumes,8.0,11.75
+GE-0273,Perfumes,Park Avenue Perfumes,2.0,9.03
+GE-0274,Shoes,Adidas Shoes,9.0,5.87
+GE-0275,Water bottles,Milton Water bottles,7.0,11.05
+GE-0276,Water bottles,Kinley Water bottles,9.0,7.69
+GE-0277,Smart Phone,Samsung Smart Phone,8.0,9.13
+GE-0278,Jeans,Lee Jeans,10.0,7.18
+GE-0279,Tshirts,Nike Tshirt,4.0,8.16
+GE-0280,Shoes,Woodland Shoes,10.0,9.7
+GE-0281,Smart Phone,Samsung Smart Phone,3.0,9.13
+GE-0282,Smart Phone,iPhone Smart Phone,2.0,11.62
+GE-0283,Water bottles,Cello Water bottles,8.0,7.13
+GE-0284,Shoes,Nike Shoes,5.0,8.33
+GE-0285,Water bottles,Tupperware Water bottles,10.0,11.05
+GE-0286,Jeans,Mufti Jeans,4.0,8.27
+GE-0287,Tshirts,Nike Tshirt,2.0,10.15
+GE-0288,Tshirts,Puma Tshirt,4.0,10.15
+GE-0289,Water bottles,Cello Water bottles,3.0,11.05
+GE-0290,Water bottles,Aquafina Water bottles,7.0,5.98
+GE-0291,Perfumes,Denver Perfumes,8.0,11.75
+GE-0292,Tshirts,Zara Tshirt,7.0,12.84
+GE-0293,Smart Phone,Vivo Smart Phone,6.0,11.62
+GE-0294,Jeans,Pepe Jeans Jeans,5.0,8.27
+GE-0295,Jeans,Mufti Jeans,3.0,11.49
+GE-0296,Tshirts,Nike Tshirt,3.0,5.87
+GE-0297,Jeans,Wrangler Jeans,2.0,9.84
+GE-0298,Water bottles,Aquafina Water bottles,10.0,5.98
+GE-0299,Shoes,Nike Shoes,2.0,6.78
+GE-0300,Water bottles,Milton Water bottles,5.0,9.96
