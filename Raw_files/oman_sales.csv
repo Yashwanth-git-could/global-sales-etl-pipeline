@@ -1,0 +1,301 @@
+SaleId,Category,Product,Qty,Sale
+OM-0001,Tshirts,Adidas Tshirt,,2774.4
+OM-0002,Water bottles,Milton Water bottles,4.0,3216.0
+OM-0003,Tshirts,Peter England Tshirt,5.0,3734.4
+OM-0004,Tshirts,Zara Tshirt,4.0,2374.4
+OM-0005,Jeans,Wrangler Jeans,8.0,1814.4
+OM-0006,Shoes,Woodland Shoes,1.0,2822.4
+OM-0007,Water bottles,Tupperware Water bottles,7.0,2128.0
+OM-0008,Tshirts,Zara Tshirt,10.0,3734.4
+OM-0009,Tshirts,Zara Tshirt,1.0,3734.4
+OM-0010,Shoes,Adidas Shoes,9.0,3718.4
+OM-0011,Perfumes,Denver Perfumes,2.0,2995.2
+OM-0012,Jeans,Lee Jeans,1.0,2089.6
+OM-0013,Smart Phone,Redmi Smart Phone,5.0,3379.2
+OM-0014,Shoes,Bata Shoes,9.0,2822.4
+OM-0015,Jeans,Mufti Jeans,7.0,2684.8
+OM-0016,Tshirts,Peter England Tshirt,7.0,2374.4
+OM-0017,Tshirts,Adidas Tshirt,8.0,1708.8
+OM-0018,Perfumes,Wild Stone Perfumes,1.0,2995.2
+OM-0019,Shoes,Bata Shoes,2.0,2822.4
+OM-0020,Shoes,Bata Shoes,10.0,2822.4
+OM-0021,Shoes,Nike Shoes,5.0,1708.8
+OM-0022,Smart Phone,Samsung Smart Phone,2.0,3097.6
+OM-0023,Perfumes,Park Avenue Perfumes,4.0,3513.6
+OM-0024,Tshirts,Nike Tshirt,5.0,3734.4
+OM-0025,Shoes,Reebok Shoes,10.0,1708.8
+OM-0026,Perfumes,AXE Perfumes,9.0,3110.4
+OM-0027,Jeans,Lee Jeans,2.0,2864.0
+OM-0028,Jeans,Lee Jeans,7.0,2864.0
+OM-0029,Tshirts,Nike Tshirt,5.0,3417.6
+OM-0030,Shoes,Bata Shoes,2.0,1971.2
+OM-0031,Jeans,Levi's Jeans,7.0,2864.0
+OM-0032,Perfumes,Park Avenue Perfumes,2.0,2627.2
+OM-0033,Smart Phone,Redmi Smart Phone,8.0,3401.6
+OM-0034,Smart Phone,iPhone Smart Phone,6.0,3360.0
+OM-0035,Water bottles,Kinley Water bottles,5.0,3216.0
+OM-0036,Jeans,Lee Jeans,4.0,2089.6
+OM-0037,Water bottles,Tupperware Water bottles,3.0,2073.6
+OM-0038,Shoes,Woodland Shoes,5.0,1708.8
+OM-0039,Tshirts,Puma Tshirt,10.0,2953.6
+OM-0040,Perfumes,Park Avenue Perfumes,4.0,2995.2
+OM-0041,Smart Phone,Samsung Smart Phone,10.0,3360.0
+OM-0042,Shoes,Adidas Shoes,4.0,3395.2
+OM-0043,Shoes,Nike Shoes,1.0,3718.4
+OM-0044,Perfumes,Park Avenue Perfumes,9.0,2627.2
+OM-0045,Water bottles,Aquafina Water bottles,9.0,2128.0
+OM-0046,Perfumes,Fogg Perfumes,6.0,3513.6
+OM-0047,Shoes,Adidas Shoes,3.0,3395.2
+OM-0048,Jeans,Wrangler Jeans,5.0,2864.0
+OM-0049,Perfumes,AXE Perfumes,4.0,2995.2
+OM-0050,Shoes,Bata Shoes,9.0,2822.4
+OM-0051,Water bottles,Milton Water bottles,6.0,3216.0
+OM-0052,Smart Phone,Samsung Smart Phone,3.0,2060.8
+OM-0053,Shoes,Bata Shoes,6.0,1708.8
+OM-0054,Jeans,Mufti Jeans,8.0,1814.4
+OM-0055,Smart Phone,Redmi Smart Phone,,2060.8
+OM-0056,Perfumes,Fogg Perfumes,9.0,2627.2
+OM-0057,Tshirts,Puma Tshirt,2.0,2953.6
+OM-0058,Water bottles,Tupperware Water bottles,,2236.8
+OM-0059,Shoes,Bata Shoes,1.0,2422.4
+OM-0060,Smart Phone,Vivo Smart Phone,6.0,3097.6
+OM-0061,Perfumes,Denver Perfumes,10.0,2627.2
+OM-0062,Jeans,Lee Jeans,8.0,2864.0
+OM-0063,Jeans,Wrangler Jeans,2.0,3344.0
+OM-0064,Shoes,Adidas Shoes,8.0,1971.2
+OM-0065,Jeans,Mufti Jeans,10.0,3344.0
+OM-0066,Perfumes,Denver Perfumes,8.0,2627.2
+OM-0067,Jeans,Pepe Jeans Jeans,4.0,2406.4
+OM-0068,Shoes,Reebok Shoes,3.0,3718.4
+OM-0069,Shoes,Woodland Shoes,,3718.4
+OM-0070,Water bottles,Tupperware Water bottles,1.0,1740.8
+OM-0071,Perfumes,AXE Perfumes,5.0,2995.2
+OM-0072,Jeans,Pepe Jeans Jeans,6.0,2406.4
+OM-0073,Water bottles,Cello Water bottles,3.0,2128.0
+OM-0074,Shoes,Woodland Shoes,9.0,2422.4
+OM-0075,Shoes,Reebok Shoes,9.0,2822.4
+OM-0076,Perfumes,Wild Stone Perfumes,9.0,2627.2
+OM-0077,Jeans,Levi's Jeans,1.0,3344.0
+OM-0078,Shoes,Bata Shoes,7.0,1708.8
+OM-0079,Shoes,Nike Shoes,4.0,1708.8
+OM-0080,Shoes,Bata Shoes,1.0,2822.4
+OM-0081,Tshirts,Adidas Tshirt,4.0,2774.4
+OM-0082,Perfumes,Denver Perfumes,1.0,2995.2
+OM-0083,Perfumes,Denver Perfumes,1.0,2627.2
+OM-0084,Perfumes,Fogg Perfumes,,3110.4
+OM-0085,Perfumes,Wild Stone Perfumes,7.0,3513.6
+OM-0086,Shoes,Woodland Shoes,2.0,3395.2
+OM-0087,Smart Phone,iPhone Smart Phone,2.0,3360.0
+OM-0088,Water bottles,Aquafina Water bottles,5.0,2236.8
+OM-0089,Smart Phone,Samsung Smart Phone,9.0,3379.2
+OM-0090,Shoes,Nike Shoes,1.0,2822.4
+OM-0091,Tshirts,Zara Tshirt,8.0,2774.4
+OM-0092,Tshirts,Zara Tshirt,,2953.6
+OM-0093,Shoes,Woodland Shoes,2.0,3395.2
+OM-0094,Perfumes,AXE Perfumes,10.0,2627.2
+OM-0095,Smart Phone,Redmi Smart Phone,3.0,3097.6
+OM-0096,Perfumes,Park Avenue Perfumes,5.0,2627.2
+OM-0097,Shoes,Adidas Shoes,6.0,2822.4
+OM-0098,Smart Phone,iPhone Smart Phone,8.0,3097.6
+OM-0099,Water bottles,Aquafina Water bottles,2.0,2128.0
+OM-0100,Perfumes,Fogg Perfumes,,3110.4
+OM-0101,Jeans,Wrangler Jeans,1.0,2684.8
+OM-0102,Smart Phone,Redmi Smart Phone,9.0,3401.6
+OM-0103,Shoes,Woodland Shoes,7.0,1708.8
+OM-0104,Shoes,Reebok Shoes,10.0,1708.8
+OM-0105,Smart Phone,Vivo Smart Phone,7.0,2656.0
+OM-0106,Smart Phone,OnePlus Smart Phone,3.0,2060.8
+OM-0107,Smart Phone,OnePlus Smart Phone,4.0,3097.6
+OM-0108,Smart Phone,Redmi Smart Phone,6.0,3360.0
+OM-0109,Perfumes,Park Avenue Perfumes,4.0,2627.2
+OM-0110,Tshirts,Puma Tshirt,2.0,2953.6
+OM-0111,Shoes,Woodland Shoes,7.0,3718.4
+OM-0112,Perfumes,Denver Perfumes,8.0,2627.2
+OM-0113,Jeans,Pepe Jeans Jeans,8.0,3344.0
+OM-0114,Perfumes,Wild Stone Perfumes,10.0,3417.6
+OM-0115,Water bottles,Milton Water bottles,4.0,2896.0
+OM-0116,Tshirts,Nike Tshirt,2.0,3734.4
+OM-0117,Shoes,Reebok Shoes,2.0,3718.4
+OM-0118,Smart Phone,Vivo Smart Phone,1.0,3379.2
+OM-0119,Jeans,Wrangler Jeans,10.0,2406.4
+OM-0120,Jeans,Mufti Jeans,2.0,2684.8
+OM-0121,Water bottles,Aquafina Water bottles,7.0,2896.0
+OM-0122,Shoes,Adidas Shoes,1.0,3395.2
+OM-0123,Tshirts,Zara Tshirt,1.0,3417.6
+OM-0124,Shoes,Bata Shoes,8.0,2822.4
+OM-0125,Perfumes,Denver Perfumes,1.0,3513.6
+OM-0126,Water bottles,Cello Water bottles,9.0,3216.0
+OM-0127,Smart Phone,Redmi Smart Phone,1.0,3401.6
+OM-0128,Smart Phone,Samsung Smart Phone,3.0,3360.0
+OM-0129,Water bottles,Kinley Water bottles,9.0,3216.0
+OM-0130,Tshirts,Peter England Tshirt,1.0,2774.4
+OM-0131,Jeans,Levi's Jeans,5.0,2684.8
+OM-0132,Perfumes,Fogg Perfumes,2.0,2995.2
+OM-0133,Smart Phone,Redmi Smart Phone,8.0,3360.0
+OM-0134,Perfumes,AXE Perfumes,,2627.2
+OM-0135,Jeans,Wrangler Jeans,7.0,1814.4
+OM-0136,Smart Phone,Vivo Smart Phone,6.0,3360.0
+OM-0137,Perfumes,Denver Perfumes,,2627.2
+OM-0138,Tshirts,Peter England Tshirt,9.0,2774.4
+OM-0139,Shoes,Adidas Shoes,10.0,1971.2
+OM-0140,Water bottles,Aquafina Water bottles,2.0,3216.0
+OM-0141,Perfumes,Park Avenue Perfumes,6.0,3513.6
+OM-0142,Tshirts,Zara Tshirt,8.0,2953.6
+OM-0143,Perfumes,AXE Perfumes,5.0,3110.4
+OM-0144,Shoes,Adidas Shoes,9.0,3718.4
+OM-0145,Smart Phone,OnePlus Smart Phone,4.0,2656.0
+OM-0146,Perfumes,Park Avenue Perfumes,1.0,2995.2
+OM-0147,Jeans,Wrangler Jeans,7.0,2864.0
+OM-0148,Shoes,Nike Shoes,1.0,3718.4
+OM-0149,Perfumes,AXE Perfumes,5.0,3513.6
+OM-0150,Tshirts,Puma Tshirt,7.0,2774.4
+OM-0151,Smart Phone,Vivo Smart Phone,9.0,2060.8
+OM-0152,Perfumes,Wild Stone Perfumes,10.0,3513.6
+OM-0153,Smart Phone,OnePlus Smart Phone,9.0,3379.2
+OM-0154,Perfumes,Park Avenue Perfumes,1.0,2627.2
+OM-0155,Water bottles,Tupperware Water bottles,2.0,2128.0
+OM-0156,Smart Phone,OnePlus Smart Phone,6.0,3360.0
+OM-0157,Perfumes,Denver Perfumes,8.0,3110.4
+OM-0158,Jeans,Lee Jeans,9.0,2406.4
+OM-0159,Shoes,Woodland Shoes,,3395.2
+OM-0160,Shoes,Nike Shoes,7.0,2822.4
+OM-0161,Perfumes,AXE Perfumes,8.0,3110.4
+OM-0162,Jeans,Mufti Jeans,3.0,2406.4
+OM-0163,Shoes,Nike Shoes,5.0,1971.2
+OM-0164,Jeans,Pepe Jeans Jeans,4.0,2864.0
+OM-0165,Smart Phone,Samsung Smart Phone,5.0,2656.0
+OM-0166,Tshirts,Peter England Tshirt,5.0,1708.8
+OM-0167,Tshirts,Peter England Tshirt,9.0,2774.4
+OM-0168,Water bottles,Milton Water bottles,3.0,2896.0
+OM-0169,Tshirts,Peter England Tshirt,3.0,2374.4
+OM-0170,Jeans,Lee Jeans,8.0,2684.8
+OM-0171,Water bottles,Aquafina Water bottles,7.0,2236.8
+OM-0172,Shoes,Adidas Shoes,3.0,1708.8
+OM-0173,Tshirts,Puma Tshirt,8.0,1708.8
+OM-0174,Water bottles,Tupperware Water bottles,3.0,1740.8
+OM-0175,Water bottles,Kinley Water bottles,5.0,2128.0
+OM-0176,Tshirts,Zara Tshirt,9.0,2774.4
+OM-0177,Water bottles,Kinley Water bottles,4.0,2896.0
+OM-0178,Tshirts,Zara Tshirt,6.0,3417.6
+OM-0179,Perfumes,Park Avenue Perfumes,3.0,2995.2
+OM-0180,Perfumes,Fogg Perfumes,1.0,3417.6
+OM-0181,Shoes,Reebok Shoes,8.0,2422.4
+OM-0182,Shoes,Reebok Shoes,5.0,1708.8
+OM-0183,Perfumes,AXE Perfumes,6.0,2995.2
+OM-0184,Shoes,Adidas Shoes,1.0,2822.4
+OM-0185,Smart Phone,iPhone Smart Phone,7.0,2656.0
+OM-0186,Water bottles,Tupperware Water bottles,8.0,1740.8
+OM-0187,Perfumes,Wild Stone Perfumes,8.0,3513.6
+OM-0188,Shoes,Reebok Shoes,7.0,2822.4
+OM-0189,Water bottles,Aquafina Water bottles,6.0,2073.6
+OM-0190,Water bottles,Tupperware Water bottles,8.0,1740.8
+OM-0191,Shoes,Adidas Shoes,7.0,2822.4
+OM-0192,Jeans,Lee Jeans,10.0,3344.0
+OM-0193,Jeans,Lee Jeans,5.0,3344.0
+OM-0194,Tshirts,Zara Tshirt,1.0,3417.6
+OM-0195,Jeans,Pepe Jeans Jeans,1.0,3344.0
+OM-0196,Water bottles,Tupperware Water bottles,,1740.8
+OM-0197,Tshirts,Adidas Tshirt,7.0,1708.8
+OM-0198,Water bottles,Milton Water bottles,4.0,2236.8
+OM-0199,Perfumes,Park Avenue Perfumes,3.0,2627.2
+OM-0200,Jeans,Lee Jeans,2.0,2089.6
+OM-0201,Jeans,Pepe Jeans Jeans,5.0,1814.4
+OM-0202,Perfumes,Wild Stone Perfumes,3.0,2627.2
+OM-0203,Shoes,Reebok Shoes,3.0,3718.4
+OM-0204,Jeans,Pepe Jeans Jeans,,2864.0
+OM-0205,Water bottles,Aquafina Water bottles,1.0,2073.6
+OM-0206,Perfumes,AXE Perfumes,2.0,2995.2
+OM-0207,Water bottles,Tupperware Water bottles,,2236.8
+OM-0208,Jeans,Wrangler Jeans,6.0,2684.8
+OM-0209,Jeans,Pepe Jeans Jeans,6.0,2406.4
+OM-0210,Jeans,Mufti Jeans,5.0,2089.6
+OM-0211,Jeans,Mufti Jeans,,1814.4
+OM-0212,Tshirts,Adidas Tshirt,1.0,2774.4
+OM-0213,Jeans,Mufti Jeans,7.0,2684.8
+OM-0214,Tshirts,Peter England Tshirt,1.0,2953.6
+OM-0215,Smart Phone,Redmi Smart Phone,7.0,2060.8
+OM-0216,Jeans,Pepe Jeans Jeans,3.0,2089.6
+OM-0217,Perfumes,AXE Perfumes,10.0,2995.2
+OM-0218,Water bottles,Aquafina Water bottles,3.0,2896.0
+OM-0219,Tshirts,Puma Tshirt,6.0,2774.4
+OM-0220,Perfumes,Wild Stone Perfumes,2.0,3110.4
+OM-0221,Smart Phone,OnePlus Smart Phone,3.0,3097.6
+OM-0222,Shoes,Nike Shoes,9.0,3395.2
+OM-0223,Perfumes,Park Avenue Perfumes,5.0,3417.6
+OM-0224,Water bottles,Milton Water bottles,5.0,2236.8
+OM-0225,Jeans,Wrangler Jeans,2.0,1814.4
+OM-0226,Perfumes,Park Avenue Perfumes,4.0,3417.6
+OM-0227,Perfumes,Fogg Perfumes,8.0,2627.2
+OM-0228,Smart Phone,Redmi Smart Phone,5.0,3360.0
+OM-0229,Jeans,Wrangler Jeans,4.0,2684.8
+OM-0230,Shoes,Woodland Shoes,1.0,2422.4
+OM-0231,Smart Phone,Samsung Smart Phone,4.0,2060.8
+OM-0232,Shoes,Adidas Shoes,3.0,2822.4
+OM-0233,Shoes,Woodland Shoes,10.0,3395.2
+OM-0234,Jeans,Wrangler Jeans,8.0,2406.4
+OM-0235,Jeans,Lee Jeans,7.0,2684.8
+OM-0236,Tshirts,Nike Tshirt,1.0,2774.4
+OM-0237,Shoes,Woodland Shoes,2.0,3395.2
+OM-0238,Smart Phone,OnePlus Smart Phone,3.0,3360.0
+OM-0239,Smart Phone,Vivo Smart Phone,3.0,3401.6
+OM-0240,Shoes,Adidas Shoes,2.0,1971.2
+OM-0241,Tshirts,Nike Tshirt,7.0,2374.4
+OM-0242,Tshirts,Nike Tshirt,9.0,2774.4
+OM-0243,Jeans,Wrangler Jeans,9.0,2406.4
+OM-0244,Water bottles,Milton Water bottles,4.0,2896.0
+OM-0245,Jeans,Wrangler Jeans,4.0,3344.0
+OM-0246,Jeans,Levi's Jeans,10.0,1814.4
+OM-0247,Perfumes,AXE Perfumes,6.0,3110.4
+OM-0248,Tshirts,Nike Tshirt,10.0,2953.6
+OM-0249,Shoes,Woodland Shoes,9.0,1708.8
+OM-0250,Shoes,Adidas Shoes,7.0,1708.8
+OM-0251,Shoes,Nike Shoes,10.0,1708.8
+OM-0252,Water bottles,Milton Water bottles,7.0,3216.0
+OM-0253,Smart Phone,Samsung Smart Phone,10.0,3401.6
+OM-0254,Tshirts,Nike Tshirt,4.0,1708.8
+OM-0255,Water bottles,Cello Water bottles,10.0,2896.0
+OM-0256,Perfumes,AXE Perfumes,8.0,2995.2
+OM-0257,Smart Phone,iPhone Smart Phone,1.0,2656.0
+OM-0258,Smart Phone,Vivo Smart Phone,9.0,3401.6
+OM-0259,Water bottles,Aquafina Water bottles,9.0,1740.8
+OM-0260,Smart Phone,Samsung Smart Phone,1.0,2060.8
+OM-0261,Tshirts,Puma Tshirt,8.0,2774.4
+OM-0262,Water bottles,Cello Water bottles,8.0,2073.6
+OM-0263,Tshirts,Peter England Tshirt,1.0,2953.6
+OM-0264,Perfumes,Wild Stone Perfumes,8.0,2627.2
+OM-0265,Tshirts,Zara Tshirt,5.0,2953.6
+OM-0266,Shoes,Adidas Shoes,9.0,1971.2
+OM-0267,Tshirts,Adidas Tshirt,9.0,3417.6
+OM-0268,Smart Phone,iPhone Smart Phone,4.0,3401.6
+OM-0269,Tshirts,Peter England Tshirt,7.0,2374.4
+OM-0270,Water bottles,Milton Water bottles,1.0,2128.0
+OM-0271,Tshirts,Zara Tshirt,5.0,2774.4
+OM-0272,Shoes,Bata Shoes,1.0,1971.2
+OM-0273,Tshirts,Peter England Tshirt,4.0,2374.4
+OM-0274,Shoes,Adidas Shoes,7.0,3395.2
+OM-0275,Perfumes,AXE Perfumes,9.0,2995.2
+OM-0276,Perfumes,Denver Perfumes,10.0,2995.2
+OM-0277,Smart Phone,Redmi Smart Phone,4.0,3097.6
+OM-0278,Shoes,Adidas Shoes,4.0,3718.4
+OM-0279,Perfumes,Park Avenue Perfumes,6.0,2627.2
+OM-0280,Water bottles,Cello Water bottles,4.0,2128.0
+OM-0281,Water bottles,Milton Water bottles,10.0,2236.8
+OM-0282,Water bottles,Tupperware Water bottles,2.0,1740.8
+OM-0283,Smart Phone,Redmi Smart Phone,1.0,2656.0
+OM-0284,Water bottles,Kinley Water bottles,8.0,3216.0
+OM-0285,Tshirts,Peter England Tshirt,8.0,3734.4
+OM-0286,Water bottles,Kinley Water bottles,4.0,2073.6
+OM-0287,Smart Phone,Samsung Smart Phone,2.0,3360.0
+OM-0288,Water bottles,Cello Water bottles,7.0,2073.6
+OM-0289,Tshirts,Puma Tshirt,6.0,2774.4
+OM-0290,Jeans,Lee Jeans,2.0,2089.6
+OM-0291,Jeans,Pepe Jeans Jeans,2.0,2089.6
+OM-0292,Tshirts,Zara Tshirt,2.0,2774.4
+OM-0293,Smart Phone,iPhone Smart Phone,7.0,2656.0
+OM-0294,Tshirts,Zara Tshirt,6.0,2953.6
+OM-0295,Jeans,Mufti Jeans,7.0,2089.6
+OM-0296,Water bottles,Aquafina Water bottles,,3216.0
+OM-0297,Shoes,Bata Shoes,6.0,1971.2
+OM-0298,Water bottles,Kinley Water bottles,8.0,1740.8
+OM-0299,Shoes,Adidas Shoes,1.0,1708.8
+OM-0300,Jeans,Lee Jeans,6.0,1814.4
