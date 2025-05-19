@@ -1,0 +1,1752 @@
+[
+    {
+        "SaleId":1,
+        "Category":"Smart Phone",
+        "Product":"iPhone 14",
+        "Qty":11.0,
+        "Sale":445.28
+    },
+    {
+        "SaleId":2,
+        "Category":"Water bottles",
+        "Product":"Plastic Sports Bottle",
+        "Qty":17.0,
+        "Sale":5846.35
+    },
+    {
+        "SaleId":3,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":13.0,
+        "Sale":3660.87
+    },
+    {
+        "SaleId":4,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":9.0,
+        "Sale":1766.31
+    },
+    {
+        "SaleId":5,
+        "Category":"Perfumes",
+        "Product":"Versace Eros",
+        "Qty":6.0,
+        "Sale":738.6
+    },
+    {
+        "SaleId":6,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":7,
+        "Category":"Jeans",
+        "Product":"Bootcut Jeans",
+        "Qty":13.0,
+        "Sale":4629.89
+    },
+    {
+        "SaleId":8,
+        "Category":"Smart Phone",
+        "Product":"OnePlus 11",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":9,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":11.0,
+        "Sale":2251.59
+    },
+    {
+        "SaleId":10,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":11,
+        "Category":"Smart Phone",
+        "Product":"iPhone 14",
+        "Qty":7.0,
+        "Sale":3199.08
+    },
+    {
+        "SaleId":12,
+        "Category":null,
+        "Product":null,
+        "Qty":19.0,
+        "Sale":8760.79
+    },
+    {
+        "SaleId":13,
+        "Category":"Shoes",
+        "Product":"Ankle Boots",
+        "Qty":9.0,
+        "Sale":3079.2
+    },
+    {
+        "SaleId":14,
+        "Category":"Tshirts",
+        "Product":"Polo T-Shirt",
+        "Qty":1.0,
+        "Sale":499.31
+    },
+    {
+        "SaleId":15,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":12.0,
+        "Sale":1725.15
+    },
+    {
+        "SaleId":16,
+        "Category":"Perfumes",
+        "Product":"Versace Eros",
+        "Qty":19.0,
+        "Sale":5105.31
+    },
+    {
+        "SaleId":17,
+        "Category":"Jeans",
+        "Product":"High-Rise Jeans",
+        "Qty":6.0,
+        "Sale":875.52
+    },
+    {
+        "SaleId":18,
+        "Category":"Perfumes",
+        "Product":"Dior Sauvage",
+        "Qty":2.0,
+        "Sale":884.36
+    },
+    {
+        "SaleId":19,
+        "Category":"Smart Phone",
+        "Product":"Redmi Note 12",
+        "Qty":3.0,
+        "Sale":859.41
+    },
+    {
+        "SaleId":20,
+        "Category":"Water bottles",
+        "Product":"Steel Flask 1L",
+        "Qty":6.0,
+        "Sale":877.11
+    },
+    {
+        "SaleId":21,
+        "Category":"Smart Phone",
+        "Product":"iPhone 14",
+        "Qty":19.0,
+        "Sale":920.17
+    },
+    {
+        "SaleId":22,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":14.0,
+        "Sale":2607.26
+    },
+    {
+        "SaleId":23,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":11.0,
+        "Sale":4706.21
+    },
+    {
+        "SaleId":24,
+        "Category":"Smart Phone",
+        "Product":"OnePlus 11",
+        "Qty":12.0,
+        "Sale":4179.37
+    },
+    {
+        "SaleId":25,
+        "Category":"Tshirts",
+        "Product":"Classic Crew Tee",
+        "Qty":18.0,
+        "Sale":8161.11
+    },
+    {
+        "SaleId":26,
+        "Category":"Perfumes",
+        "Product":"Armani Code",
+        "Qty":2.0,
+        "Sale":360.43
+    },
+    {
+        "SaleId":27,
+        "Category":"Water bottles",
+        "Product":"Glass Water Bottle",
+        "Qty":4.0,
+        "Sale":732.62
+    },
+    {
+        "SaleId":28,
+        "Category":"Water bottles",
+        "Product":"Steel Flask 1L",
+        "Qty":9.0,
+        "Sale":2162.99
+    },
+    {
+        "SaleId":29,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":3.0,
+        "Sale":1025.07
+    },
+    {
+        "SaleId":30,
+        "Category":"Water bottles",
+        "Product":"Steel Flask 1L",
+        "Qty":14.0,
+        "Sale":2208.53
+    },
+    {
+        "SaleId":31,
+        "Category":"Perfumes",
+        "Product":"Armani Code",
+        "Qty":3.0,
+        "Sale":1309.85
+    },
+    {
+        "SaleId":32,
+        "Category":"Water bottles",
+        "Product":"Insulated Bottle",
+        "Qty":12.0,
+        "Sale":406.09
+    },
+    {
+        "SaleId":33,
+        "Category":"Jeans",
+        "Product":"High-Rise Jeans",
+        "Qty":4.0,
+        "Sale":733.27
+    },
+    {
+        "SaleId":34,
+        "Category":"Tshirts",
+        "Product":"Classic Crew Tee",
+        "Qty":14.0,
+        "Sale":2701.17
+    },
+    {
+        "SaleId":35,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":13.0,
+        "Sale":213.44
+    },
+    {
+        "SaleId":36,
+        "Category":"Water bottles",
+        "Product":"Insulated Bottle",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":37,
+        "Category":"Water bottles",
+        "Product":"Insulated Bottle",
+        "Qty":3.0,
+        "Sale":1101.53
+    },
+    {
+        "SaleId":38,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":39,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":13.0,
+        "Sale":3364.06
+    },
+    {
+        "SaleId":40,
+        "Category":"Perfumes",
+        "Product":"Gucci Bloom",
+        "Qty":14.0,
+        "Sale":513.73
+    },
+    {
+        "SaleId":41,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":11.0,
+        "Sale":2358.35
+    },
+    {
+        "SaleId":42,
+        "Category":"Shoes",
+        "Product":"Running Shoes",
+        "Qty":1.0,
+        "Sale":461.88
+    },
+    {
+        "SaleId":43,
+        "Category":"Smart Phone",
+        "Product":"Redmi Note 12",
+        "Qty":15.0,
+        "Sale":1951.57
+    },
+    {
+        "SaleId":44,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":17.0,
+        "Sale":5677.13
+    },
+    {
+        "SaleId":45,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":16.0,
+        "Sale":7615.84
+    },
+    {
+        "SaleId":46,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":1.0,
+        "Sale":257.6
+    },
+    {
+        "SaleId":47,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":19.0,
+        "Sale":3731.06
+    },
+    {
+        "SaleId":48,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":6.0,
+        "Sale":347.39
+    },
+    {
+        "SaleId":49,
+        "Category":"Shoes",
+        "Product":"Running Shoes",
+        "Qty":3.0,
+        "Sale":161.51
+    },
+    {
+        "SaleId":50,
+        "Category":"Perfumes",
+        "Product":"Dior Sauvage",
+        "Qty":13.0,
+        "Sale":1529.95
+    },
+    {
+        "SaleId":51,
+        "Category":"Shoes",
+        "Product":"Formal Derby",
+        "Qty":13.0,
+        "Sale":6221.57
+    },
+    {
+        "SaleId":52,
+        "Category":null,
+        "Product":null,
+        "Qty":3.0,
+        "Sale":468.96
+    },
+    {
+        "SaleId":53,
+        "Category":"Water bottles",
+        "Product":"Glass Water Bottle",
+        "Qty":17.0,
+        "Sale":5824.77
+    },
+    {
+        "SaleId":54,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":17.0,
+        "Sale":1444.69
+    },
+    {
+        "SaleId":55,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":14.0,
+        "Sale":4658.21
+    },
+    {
+        "SaleId":56,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":57,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":6.0,
+        "Sale":1519.15
+    },
+    {
+        "SaleId":58,
+        "Category":"Perfumes",
+        "Product":"Dior Sauvage",
+        "Qty":16.0,
+        "Sale":5428.49
+    },
+    {
+        "SaleId":59,
+        "Category":"Shoes",
+        "Product":"Ankle Boots",
+        "Qty":11.0,
+        "Sale":3410.7
+    },
+    {
+        "SaleId":60,
+        "Category":"Shoes",
+        "Product":"Running Shoes",
+        "Qty":14.0,
+        "Sale":363.84
+    },
+    {
+        "SaleId":61,
+        "Category":"Water bottles",
+        "Product":"Insulated Bottle",
+        "Qty":15.0,
+        "Sale":1119.72
+    },
+    {
+        "SaleId":62,
+        "Category":"Water bottles",
+        "Product":"Insulated Bottle",
+        "Qty":19.0,
+        "Sale":4414.86
+    },
+    {
+        "SaleId":63,
+        "Category":null,
+        "Product":null,
+        "Qty":9.0,
+        "Sale":3190.19
+    },
+    {
+        "SaleId":64,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":6.0,
+        "Sale":1995.0
+    },
+    {
+        "SaleId":65,
+        "Category":"Perfumes",
+        "Product":"Gucci Bloom",
+        "Qty":2.0,
+        "Sale":311.19
+    },
+    {
+        "SaleId":66,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":67,
+        "Category":"Jeans",
+        "Product":"High-Rise Jeans",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":68,
+        "Category":"Tshirts",
+        "Product":"Polo T-Shirt",
+        "Qty":17.0,
+        "Sale":7053.85
+    },
+    {
+        "SaleId":69,
+        "Category":"Tshirts",
+        "Product":"Henley T-Shirt",
+        "Qty":4.0,
+        "Sale":740.05
+    },
+    {
+        "SaleId":70,
+        "Category":"Perfumes",
+        "Product":"Chanel No.5",
+        "Qty":13.0,
+        "Sale":2047.86
+    },
+    {
+        "SaleId":71,
+        "Category":"Shoes",
+        "Product":"Formal Derby",
+        "Qty":18.0,
+        "Sale":5636.82
+    },
+    {
+        "SaleId":72,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":9.0,
+        "Sale":2945.64
+    },
+    {
+        "SaleId":73,
+        "Category":"Jeans",
+        "Product":"Bootcut Jeans",
+        "Qty":16.0,
+        "Sale":6343.77
+    },
+    {
+        "SaleId":74,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":7.0,
+        "Sale":892.85
+    },
+    {
+        "SaleId":75,
+        "Category":"Tshirts",
+        "Product":"Polo T-Shirt",
+        "Qty":19.0,
+        "Sale":3750.1
+    },
+    {
+        "SaleId":76,
+        "Category":"Jeans",
+        "Product":"Regular Fit Jeans",
+        "Qty":5.0,
+        "Sale":1012.7
+    },
+    {
+        "SaleId":77,
+        "Category":"Shoes",
+        "Product":"Leather Loafers",
+        "Qty":13.0,
+        "Sale":641.44
+    },
+    {
+        "SaleId":78,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":79,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":80,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":1.0,
+        "Sale":32.86
+    },
+    {
+        "SaleId":81,
+        "Category":"Shoes",
+        "Product":"Hiking Shoes",
+        "Qty":7.0,
+        "Sale":2892.48
+    },
+    {
+        "SaleId":82,
+        "Category":"Tshirts",
+        "Product":"Henley T-Shirt",
+        "Qty":14.0,
+        "Sale":3448.48
+    },
+    {
+        "SaleId":83,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":6.0,
+        "Sale":2884.46
+    },
+    {
+        "SaleId":84,
+        "Category":"Jeans",
+        "Product":"Bootcut Jeans",
+        "Qty":1.0,
+        "Sale":375.29
+    },
+    {
+        "SaleId":85,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":3.0,
+        "Sale":686.07
+    },
+    {
+        "SaleId":86,
+        "Category":"Shoes",
+        "Product":"Formal Derby",
+        "Qty":13.0,
+        "Sale":5059.32
+    },
+    {
+        "SaleId":87,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":88,
+        "Category":"Perfumes",
+        "Product":"CK One",
+        "Qty":19.0,
+        "Sale":9070.24
+    },
+    {
+        "SaleId":89,
+        "Category":"Perfumes",
+        "Product":"Armani Code",
+        "Qty":6.0,
+        "Sale":144.2
+    },
+    {
+        "SaleId":90,
+        "Category":null,
+        "Product":null,
+        "Qty":5.0,
+        "Sale":2253.06
+    },
+    {
+        "SaleId":91,
+        "Category":null,
+        "Product":null,
+        "Qty":1.0,
+        "Sale":465.93
+    },
+    {
+        "SaleId":92,
+        "Category":"Smart Phone",
+        "Product":"Redmi Note 12",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":93,
+        "Category":"Smart Phone",
+        "Product":"OnePlus 11",
+        "Qty":16.0,
+        "Sale":2319.23
+    },
+    {
+        "SaleId":94,
+        "Category":"Shoes",
+        "Product":"Leather Loafers",
+        "Qty":16.0,
+        "Sale":2577.93
+    },
+    {
+        "SaleId":95,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":18.0,
+        "Sale":8413.67
+    },
+    {
+        "SaleId":96,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":97,
+        "Category":"Shoes",
+        "Product":"Ankle Boots",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":98,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":2.0,
+        "Sale":788.42
+    },
+    {
+        "SaleId":99,
+        "Category":"Tshirts",
+        "Product":"Henley T-Shirt",
+        "Qty":3.0,
+        "Sale":885.51
+    },
+    {
+        "SaleId":100,
+        "Category":"Water bottles",
+        "Product":"Plastic Sports Bottle",
+        "Qty":4.0,
+        "Sale":1459.26
+    },
+    {
+        "SaleId":101,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":15.0,
+        "Sale":814.05
+    },
+    {
+        "SaleId":102,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":103,
+        "Category":"Perfumes",
+        "Product":"Chanel No.5",
+        "Qty":18.0,
+        "Sale":7997.82
+    },
+    {
+        "SaleId":104,
+        "Category":null,
+        "Product":null,
+        "Qty":3.0,
+        "Sale":220.29
+    },
+    {
+        "SaleId":105,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":3.0,
+        "Sale":151.75
+    },
+    {
+        "SaleId":106,
+        "Category":"Perfumes",
+        "Product":"Versace Eros",
+        "Qty":7.0,
+        "Sale":635.59
+    },
+    {
+        "SaleId":107,
+        "Category":"Water bottles",
+        "Product":"Copper Bottle",
+        "Qty":12.0,
+        "Sale":5507.6
+    },
+    {
+        "SaleId":108,
+        "Category":"Perfumes",
+        "Product":"Versace Eros",
+        "Qty":7.0,
+        "Sale":1951.35
+    },
+    {
+        "SaleId":109,
+        "Category":"Jeans",
+        "Product":"Bootcut Jeans",
+        "Qty":3.0,
+        "Sale":961.89
+    },
+    {
+        "SaleId":110,
+        "Category":"Jeans",
+        "Product":"High-Rise Jeans",
+        "Qty":6.0,
+        "Sale":1642.58
+    },
+    {
+        "SaleId":111,
+        "Category":null,
+        "Product":null,
+        "Qty":14.0,
+        "Sale":1801.56
+    },
+    {
+        "SaleId":112,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":113,
+        "Category":"Shoes",
+        "Product":"Formal Derby",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":114,
+        "Category":"Shoes",
+        "Product":"Leather Loafers",
+        "Qty":3.0,
+        "Sale":207.83
+    },
+    {
+        "SaleId":115,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":3.0,
+        "Sale":613.38
+    },
+    {
+        "SaleId":116,
+        "Category":"Perfumes",
+        "Product":"Versace Eros",
+        "Qty":15.0,
+        "Sale":5629.25
+    },
+    {
+        "SaleId":117,
+        "Category":"Perfumes",
+        "Product":"CK One",
+        "Qty":19.0,
+        "Sale":8257.57
+    },
+    {
+        "SaleId":118,
+        "Category":"Perfumes",
+        "Product":"Gucci Bloom",
+        "Qty":14.0,
+        "Sale":3789.73
+    },
+    {
+        "SaleId":119,
+        "Category":"Shoes",
+        "Product":"Hiking Shoes",
+        "Qty":8.0,
+        "Sale":2937.51
+    },
+    {
+        "SaleId":120,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":14.0,
+        "Sale":1944.0
+    },
+    {
+        "SaleId":121,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":8.0,
+        "Sale":636.83
+    },
+    {
+        "SaleId":122,
+        "Category":"Jeans",
+        "Product":"High-Rise Jeans",
+        "Qty":14.0,
+        "Sale":2056.99
+    },
+    {
+        "SaleId":123,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":5.0,
+        "Sale":241.8
+    },
+    {
+        "SaleId":124,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":4.0,
+        "Sale":1713.75
+    },
+    {
+        "SaleId":125,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":18.0,
+        "Sale":5703.92
+    },
+    {
+        "SaleId":126,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":16.0,
+        "Sale":472.53
+    },
+    {
+        "SaleId":127,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":18.0,
+        "Sale":5190.48
+    },
+    {
+        "SaleId":128,
+        "Category":"Jeans",
+        "Product":"Regular Fit Jeans",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":129,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":15.0,
+        "Sale":675.66
+    },
+    {
+        "SaleId":130,
+        "Category":"Shoes",
+        "Product":"Formal Derby",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":131,
+        "Category":"Jeans",
+        "Product":"Regular Fit Jeans",
+        "Qty":6.0,
+        "Sale":1484.07
+    },
+    {
+        "SaleId":132,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":15.0,
+        "Sale":425.07
+    },
+    {
+        "SaleId":133,
+        "Category":"Perfumes",
+        "Product":"Armani Code",
+        "Qty":14.0,
+        "Sale":3894.43
+    },
+    {
+        "SaleId":134,
+        "Category":"Tshirts",
+        "Product":"Henley T-Shirt",
+        "Qty":9.0,
+        "Sale":300.68
+    },
+    {
+        "SaleId":135,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":5.0,
+        "Sale":524.45
+    },
+    {
+        "SaleId":136,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":9.0,
+        "Sale":3452.1
+    },
+    {
+        "SaleId":137,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":138,
+        "Category":"Water bottles",
+        "Product":"Glass Water Bottle",
+        "Qty":13.0,
+        "Sale":1565.54
+    },
+    {
+        "SaleId":139,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":14.0,
+        "Sale":5457.02
+    },
+    {
+        "SaleId":140,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":15.0,
+        "Sale":6088.89
+    },
+    {
+        "SaleId":141,
+        "Category":"Water bottles",
+        "Product":"Glass Water Bottle",
+        "Qty":16.0,
+        "Sale":3653.06
+    },
+    {
+        "SaleId":142,
+        "Category":"Smart Phone",
+        "Product":"Realme GT Neo",
+        "Qty":13.0,
+        "Sale":4245.04
+    },
+    {
+        "SaleId":143,
+        "Category":"Tshirts",
+        "Product":"Henley T-Shirt",
+        "Qty":19.0,
+        "Sale":1157.25
+    },
+    {
+        "SaleId":144,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":20.0,
+        "Sale":9243.15
+    },
+    {
+        "SaleId":145,
+        "Category":"Perfumes",
+        "Product":"Chanel No.5",
+        "Qty":8.0,
+        "Sale":2866.29
+    },
+    {
+        "SaleId":146,
+        "Category":null,
+        "Product":null,
+        "Qty":4.0,
+        "Sale":1233.46
+    },
+    {
+        "SaleId":147,
+        "Category":"Shoes",
+        "Product":"Ankle Boots",
+        "Qty":19.0,
+        "Sale":4820.32
+    },
+    {
+        "SaleId":148,
+        "Category":"Shoes",
+        "Product":"Running Shoes",
+        "Qty":3.0,
+        "Sale":1174.83
+    },
+    {
+        "SaleId":149,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":13.0,
+        "Sale":2716.95
+    },
+    {
+        "SaleId":150,
+        "Category":"Perfumes",
+        "Product":"Dior Sauvage",
+        "Qty":16.0,
+        "Sale":1293.98
+    },
+    {
+        "SaleId":151,
+        "Category":"Water bottles",
+        "Product":"Plastic Sports Bottle",
+        "Qty":20.0,
+        "Sale":593.27
+    },
+    {
+        "SaleId":152,
+        "Category":"Shoes",
+        "Product":"Ankle Boots",
+        "Qty":19.0,
+        "Sale":2974.11
+    },
+    {
+        "SaleId":153,
+        "Category":"Jeans",
+        "Product":"Regular Fit Jeans",
+        "Qty":4.0,
+        "Sale":449.62
+    },
+    {
+        "SaleId":154,
+        "Category":"Water bottles",
+        "Product":"Glass Water Bottle",
+        "Qty":6.0,
+        "Sale":136.99
+    },
+    {
+        "SaleId":155,
+        "Category":"Water bottles",
+        "Product":"Collapsible Bottle",
+        "Qty":14.0,
+        "Sale":3742.55
+    },
+    {
+        "SaleId":156,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":157,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":9.0,
+        "Sale":3448.4
+    },
+    {
+        "SaleId":158,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":6.0,
+        "Sale":2762.67
+    },
+    {
+        "SaleId":159,
+        "Category":"Jeans",
+        "Product":"Bootcut Jeans",
+        "Qty":14.0,
+        "Sale":1719.17
+    },
+    {
+        "SaleId":160,
+        "Category":"Perfumes",
+        "Product":"Gucci Bloom",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":161,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":17.0,
+        "Sale":3637.17
+    },
+    {
+        "SaleId":162,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":5.0,
+        "Sale":85.29
+    },
+    {
+        "SaleId":163,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":19.0,
+        "Sale":6338.06
+    },
+    {
+        "SaleId":164,
+        "Category":"Smart Phone",
+        "Product":"iPhone 14",
+        "Qty":14.0,
+        "Sale":1680.79
+    },
+    {
+        "SaleId":165,
+        "Category":"Smart Phone",
+        "Product":"OnePlus 11",
+        "Qty":6.0,
+        "Sale":1456.11
+    },
+    {
+        "SaleId":166,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":16.0,
+        "Sale":5576.75
+    },
+    {
+        "SaleId":167,
+        "Category":"Water bottles",
+        "Product":"Collapsible Bottle",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":168,
+        "Category":"Water bottles",
+        "Product":"Collapsible Bottle",
+        "Qty":10.0,
+        "Sale":3387.32
+    },
+    {
+        "SaleId":169,
+        "Category":"Perfumes",
+        "Product":"Versace Eros",
+        "Qty":15.0,
+        "Sale":3299.28
+    },
+    {
+        "SaleId":170,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":7.0,
+        "Sale":944.4
+    },
+    {
+        "SaleId":171,
+        "Category":"Water bottles",
+        "Product":"Copper Bottle",
+        "Qty":1.0,
+        "Sale":56.89
+    },
+    {
+        "SaleId":172,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":173,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":6.0,
+        "Sale":2534.45
+    },
+    {
+        "SaleId":174,
+        "Category":"Tshirts",
+        "Product":"Classic Crew Tee",
+        "Qty":20.0,
+        "Sale":9272.59
+    },
+    {
+        "SaleId":175,
+        "Category":"Tshirts",
+        "Product":"Graphic Printed Tee",
+        "Qty":11.0,
+        "Sale":2868.89
+    },
+    {
+        "SaleId":176,
+        "Category":"Water bottles",
+        "Product":"Collapsible Bottle",
+        "Qty":5.0,
+        "Sale":1552.39
+    },
+    {
+        "SaleId":177,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":13.0,
+        "Sale":2085.1
+    },
+    {
+        "SaleId":178,
+        "Category":"Jeans",
+        "Product":"Distressed Denim",
+        "Qty":2.0,
+        "Sale":598.46
+    },
+    {
+        "SaleId":179,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":180,
+        "Category":"Perfumes",
+        "Product":"CK One",
+        "Qty":2.0,
+        "Sale":796.39
+    },
+    {
+        "SaleId":181,
+        "Category":"Shoes",
+        "Product":"Hiking Shoes",
+        "Qty":6.0,
+        "Sale":1200.39
+    },
+    {
+        "SaleId":182,
+        "Category":"Smart Phone",
+        "Product":"OnePlus 11",
+        "Qty":2.0,
+        "Sale":593.75
+    },
+    {
+        "SaleId":183,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":7.0,
+        "Sale":1238.07
+    },
+    {
+        "SaleId":184,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":3.0,
+        "Sale":167.23
+    },
+    {
+        "SaleId":185,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":17.0,
+        "Sale":1986.38
+    },
+    {
+        "SaleId":186,
+        "Category":"Water bottles",
+        "Product":"Plastic Sports Bottle",
+        "Qty":10.0,
+        "Sale":4879.45
+    },
+    {
+        "SaleId":187,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":188,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":14.0,
+        "Sale":1466.92
+    },
+    {
+        "SaleId":189,
+        "Category":"Smart Phone",
+        "Product":"Realme GT Neo",
+        "Qty":11.0,
+        "Sale":2345.34
+    },
+    {
+        "SaleId":190,
+        "Category":"Perfumes",
+        "Product":"Dior Sauvage",
+        "Qty":16.0,
+        "Sale":6816.94
+    },
+    {
+        "SaleId":191,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":16.0,
+        "Sale":1066.5
+    },
+    {
+        "SaleId":192,
+        "Category":"Water bottles",
+        "Product":"Collapsible Bottle",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":193,
+        "Category":"Water bottles",
+        "Product":"Insulated Bottle",
+        "Qty":10.0,
+        "Sale":456.89
+    },
+    {
+        "SaleId":194,
+        "Category":null,
+        "Product":null,
+        "Qty":9.0,
+        "Sale":2183.26
+    },
+    {
+        "SaleId":195,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":8.0,
+        "Sale":2958.29
+    },
+    {
+        "SaleId":196,
+        "Category":null,
+        "Product":null,
+        "Qty":6.0,
+        "Sale":264.65
+    },
+    {
+        "SaleId":197,
+        "Category":"Water bottles",
+        "Product":"Copper Bottle",
+        "Qty":5.0,
+        "Sale":424.33
+    },
+    {
+        "SaleId":198,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":199,
+        "Category":"Perfumes",
+        "Product":"Dior Sauvage",
+        "Qty":16.0,
+        "Sale":5053.81
+    },
+    {
+        "SaleId":200,
+        "Category":null,
+        "Product":null,
+        "Qty":20.0,
+        "Sale":3140.01
+    },
+    {
+        "SaleId":201,
+        "Category":"Smart Phone",
+        "Product":"Redmi Note 12",
+        "Qty":6.0,
+        "Sale":1460.38
+    },
+    {
+        "SaleId":202,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":9.0,
+        "Sale":2635.35
+    },
+    {
+        "SaleId":203,
+        "Category":"Tshirts",
+        "Product":"Classic Crew Tee",
+        "Qty":2.0,
+        "Sale":715.04
+    },
+    {
+        "SaleId":204,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":16.0,
+        "Sale":4982.32
+    },
+    {
+        "SaleId":205,
+        "Category":"Smart Phone",
+        "Product":"Redmi Note 12",
+        "Qty":5.0,
+        "Sale":837.72
+    },
+    {
+        "SaleId":206,
+        "Category":"Jeans",
+        "Product":"High-Rise Jeans",
+        "Qty":14.0,
+        "Sale":5875.94
+    },
+    {
+        "SaleId":207,
+        "Category":"Water bottles",
+        "Product":"Collapsible Bottle",
+        "Qty":5.0,
+        "Sale":377.85
+    },
+    {
+        "SaleId":208,
+        "Category":"Perfumes",
+        "Product":"Versace Eros",
+        "Qty":6.0,
+        "Sale":728.23
+    },
+    {
+        "SaleId":209,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":2.0,
+        "Sale":377.01
+    },
+    {
+        "SaleId":210,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":13.0,
+        "Sale":4556.82
+    },
+    {
+        "SaleId":211,
+        "Category":"Smart Phone",
+        "Product":"Redmi Note 12",
+        "Qty":5.0,
+        "Sale":1348.03
+    },
+    {
+        "SaleId":212,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":3.0,
+        "Sale":290.62
+    },
+    {
+        "SaleId":213,
+        "Category":"Smart Phone",
+        "Product":"OnePlus 11",
+        "Qty":15.0,
+        "Sale":2109.31
+    },
+    {
+        "SaleId":214,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":13.0,
+        "Sale":2915.58
+    },
+    {
+        "SaleId":215,
+        "Category":"Water bottles",
+        "Product":"Glass Water Bottle",
+        "Qty":2.0,
+        "Sale":812.39
+    },
+    {
+        "SaleId":216,
+        "Category":"Tshirts",
+        "Product":"Long Sleeve Tee",
+        "Qty":14.0,
+        "Sale":3590.09
+    },
+    {
+        "SaleId":217,
+        "Category":"Water bottles",
+        "Product":"Collapsible Bottle",
+        "Qty":20.0,
+        "Sale":2542.28
+    },
+    {
+        "SaleId":218,
+        "Category":"Smart Phone",
+        "Product":"Galaxy S23",
+        "Qty":3.0,
+        "Sale":243.32
+    },
+    {
+        "SaleId":219,
+        "Category":"Shoes",
+        "Product":"Leather Loafers",
+        "Qty":9.0,
+        "Sale":2600.41
+    },
+    {
+        "SaleId":220,
+        "Category":"Jeans",
+        "Product":"Regular Fit Jeans",
+        "Qty":17.0,
+        "Sale":2637.21
+    },
+    {
+        "SaleId":221,
+        "Category":"Shoes",
+        "Product":"Hiking Shoes",
+        "Qty":4.0,
+        "Sale":939.68
+    },
+    {
+        "SaleId":222,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":5.0,
+        "Sale":763.41
+    },
+    {
+        "SaleId":223,
+        "Category":"Perfumes",
+        "Product":"CK One",
+        "Qty":1.0,
+        "Sale":87.4
+    },
+    {
+        "SaleId":224,
+        "Category":"Smart Phone",
+        "Product":"Realme GT Neo",
+        "Qty":12.0,
+        "Sale":3239.75
+    },
+    {
+        "SaleId":225,
+        "Category":"Jeans",
+        "Product":"Slim Fit Jeans",
+        "Qty":19.0,
+        "Sale":1588.68
+    },
+    {
+        "SaleId":226,
+        "Category":"Jeans",
+        "Product":"Regular Fit Jeans",
+        "Qty":13.0,
+        "Sale":5059.56
+    },
+    {
+        "SaleId":227,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":228,
+        "Category":"Tshirts",
+        "Product":"Henley T-Shirt",
+        "Qty":1.0,
+        "Sale":409.85
+    },
+    {
+        "SaleId":229,
+        "Category":"Perfumes",
+        "Product":"Gucci Bloom",
+        "Qty":20.0,
+        "Sale":8715.68
+    },
+    {
+        "SaleId":230,
+        "Category":"Smart Phone",
+        "Product":"Realme GT Neo",
+        "Qty":9.0,
+        "Sale":2645.8
+    },
+    {
+        "SaleId":231,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":232,
+        "Category":"Water bottles",
+        "Product":"Plastic Sports Bottle",
+        "Qty":15.0,
+        "Sale":1884.07
+    },
+    {
+        "SaleId":233,
+        "Category":"Shoes",
+        "Product":"Canvas Sneakers",
+        "Qty":14.0,
+        "Sale":5797.37
+    },
+    {
+        "SaleId":234,
+        "Category":"Shoes",
+        "Product":"Ankle Boots",
+        "Qty":8.0,
+        "Sale":3337.68
+    },
+    {
+        "SaleId":235,
+        "Category":"Water bottles",
+        "Product":"Glass Water Bottle",
+        "Qty":4.0,
+        "Sale":1747.23
+    },
+    {
+        "SaleId":236,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":12.0,
+        "Sale":1559.56
+    },
+    {
+        "SaleId":237,
+        "Category":"Water bottles",
+        "Product":"Copper Bottle",
+        "Qty":1.0,
+        "Sale":11.37
+    },
+    {
+        "SaleId":238,
+        "Category":"Smart Phone",
+        "Product":"OnePlus 11",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":239,
+        "Category":"Smart Phone",
+        "Product":"Pixel 7 Pro",
+        "Qty":15.0,
+        "Sale":1491.9
+    },
+    {
+        "SaleId":240,
+        "Category":"Water bottles",
+        "Product":"Copper Bottle",
+        "Qty":10.0,
+        "Sale":1588.5
+    },
+    {
+        "SaleId":241,
+        "Category":"Smart Phone",
+        "Product":"iPhone 14",
+        "Qty":19.0,
+        "Sale":7142.61
+    },
+    {
+        "SaleId":242,
+        "Category":"Shoes",
+        "Product":"Ankle Boots",
+        "Qty":3.0,
+        "Sale":316.27
+    },
+    {
+        "SaleId":243,
+        "Category":"Tshirts",
+        "Product":"V-Neck Cotton Tee",
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":244,
+        "Category":null,
+        "Product":null,
+        "Qty":null,
+        "Sale":null
+    },
+    {
+        "SaleId":245,
+        "Category":"Tshirts",
+        "Product":"Henley T-Shirt",
+        "Qty":10.0,
+        "Sale":4003.3
+    },
+    {
+        "SaleId":246,
+        "Category":"Jeans",
+        "Product":"Regular Fit Jeans",
+        "Qty":18.0,
+        "Sale":3032.95
+    },
+    {
+        "SaleId":247,
+        "Category":"Smart Phone",
+        "Product":"iPhone 14",
+        "Qty":9.0,
+        "Sale":481.99
+    },
+    {
+        "SaleId":248,
+        "Category":"Jeans",
+        "Product":"Straight Cut Jeans",
+        "Qty":16.0,
+        "Sale":5388.57
+    },
+    {
+        "SaleId":249,
+        "Category":"Shoes",
+        "Product":"Running Shoes",
+        "Qty":8.0,
+        "Sale":3001.11
+    },
+    {
+        "SaleId":250,
+        "Category":"Smart Phone",
+        "Product":"Redmi Note 12",
+        "Qty":5.0,
+        "Sale":623.48
+    }
+]

@@ -1,0 +1,251 @@
+SaleId,Category,Product,Qty,Sale
+1,Shoes,Hiking Shoes,20.0,9441.55
+2,Jeans,Bootcut Jeans,14.0,616.32
+3,Water bottles,Glass Water Bottle,16.0,3232.95
+4,Water bottles,Steel Flask 1L,19.0,5913.5
+5,Shoes,Running Shoes,14.0,3986.78
+6,Water bottles,Copper Bottle,7.0,2173.41
+7,Water bottles,Steel Flask 1L,20.0,3525.83
+8,Jeans,Regular Fit Jeans,6.0,2131.51
+9,Water bottles,Copper Bottle,,
+10,Smart Phone,Pixel 7 Pro,9.0,3490.92
+11,Water bottles,Collapsible Bottle,8.0,3007.36
+12,,,7.0,2547.34
+13,Water bottles,Plastic Sports Bottle,13.0,984.32
+14,Shoes,Running Shoes,4.0,873.73
+15,Smart Phone,Galaxy S23,,
+16,Smart Phone,OnePlus 11,5.0,1073.6
+17,Water bottles,Copper Bottle,17.0,5641.35
+18,Perfumes,Dior Sauvage,4.0,1805.51
+19,Tshirts,Long Sleeve Tee,12.0,2344.89
+20,Tshirts,V-Neck Cotton Tee,13.0,2211.39
+21,Shoes,Formal Derby,4.0,455.65
+22,Smart Phone,Redmi Note 12,19.0,9002.79
+23,Jeans,Bootcut Jeans,19.0,1874.1
+24,Tshirts,Henley T-Shirt,4.0,128.4
+25,Tshirts,Classic Crew Tee,7.0,715.58
+26,Shoes,Ankle Boots,18.0,8063.77
+27,Shoes,Hiking Shoes,3.0,553.87
+28,Tshirts,Long Sleeve Tee,9.0,3387.87
+29,,,1.0,18.37
+30,Jeans,Regular Fit Jeans,18.0,2468.2
+31,,,,
+32,Water bottles,Insulated Bottle,8.0,981.57
+33,Water bottles,Plastic Sports Bottle,4.0,1310.9
+34,Jeans,High-Rise Jeans,6.0,2819.87
+35,Water bottles,Plastic Sports Bottle,7.0,2905.89
+36,Shoes,Leather Loafers,10.0,4744.18
+37,Jeans,High-Rise Jeans,10.0,1288.83
+38,Perfumes,Chanel No.5,16.0,6974.87
+39,Smart Phone,Redmi Note 12,4.0,1301.08
+40,Shoes,Running Shoes,16.0,6285.75
+41,Perfumes,Armani Code,20.0,8801.97
+42,Smart Phone,Pixel 7 Pro,1.0,192.81
+43,Smart Phone,Realme GT Neo,17.0,4938.1
+44,Tshirts,Polo T-Shirt,16.0,2937.13
+45,Tshirts,Classic Crew Tee,13.0,1887.05
+46,Jeans,Straight Cut Jeans,14.0,1110.99
+47,,,,
+48,Jeans,Slim Fit Jeans,4.0,381.42
+49,Water bottles,Insulated Bottle,16.0,6234.56
+50,Perfumes,CK One,3.0,645.35
+51,Water bottles,Collapsible Bottle,16.0,4551.28
+52,Shoes,Running Shoes,6.0,2115.19
+53,Shoes,Leather Loafers,1.0,419.27
+54,Perfumes,Chanel No.5,5.0,559.42
+55,Smart Phone,Realme GT Neo,19.0,555.3
+56,Tshirts,V-Neck Cotton Tee,15.0,3980.72
+57,Perfumes,Versace Eros,15.0,3579.03
+58,Jeans,Distressed Denim,3.0,1201.85
+59,Smart Phone,Redmi Note 12,8.0,3580.04
+60,Smart Phone,OnePlus 11,8.0,3490.34
+61,Water bottles,Copper Bottle,1.0,443.13
+62,Smart Phone,iPhone 14,15.0,4991.26
+63,Shoes,Hiking Shoes,14.0,5765.62
+64,Perfumes,Armani Code,18.0,1465.85
+65,Perfumes,Armani Code,17.0,6813.27
+66,Shoes,Hiking Shoes,16.0,3894.27
+67,Smart Phone,Realme GT Neo,10.0,1015.68
+68,Shoes,Hiking Shoes,16.0,6661.18
+69,Perfumes,Dior Sauvage,1.0,73.49
+70,Shoes,Leather Loafers,,
+71,,,,
+72,Water bottles,Collapsible Bottle,2.0,616.32
+73,Jeans,Slim Fit Jeans,14.0,3795.28
+74,Water bottles,Collapsible Bottle,3.0,152.71
+75,,,,
+76,Smart Phone,OnePlus 11,19.0,5828.54
+77,Shoes,Running Shoes,,
+78,Jeans,Bootcut Jeans,11.0,4743.38
+79,Smart Phone,Pixel 7 Pro,16.0,341.23
+80,Water bottles,Collapsible Bottle,18.0,2830.55
+81,Jeans,High-Rise Jeans,20.0,9432.75
+82,Perfumes,Gucci Bloom,19.0,7441.92
+83,Perfumes,Armani Code,16.0,5174.14
+84,Water bottles,Insulated Bottle,10.0,3475.06
+85,Jeans,Distressed Denim,13.0,4921.89
+86,Smart Phone,Realme GT Neo,9.0,3377.81
+87,Jeans,Regular Fit Jeans,12.0,4218.08
+88,,,3.0,44.27
+89,Water bottles,Glass Water Bottle,11.0,1340.22
+90,Shoes,Running Shoes,12.0,3325.61
+91,Jeans,Slim Fit Jeans,12.0,5853.63
+92,Shoes,Formal Derby,11.0,1416.4
+93,,,9.0,372.83
+94,Smart Phone,iPhone 14,,
+95,Jeans,Bootcut Jeans,19.0,6620.16
+96,Tshirts,Polo T-Shirt,11.0,3779.36
+97,Jeans,Distressed Denim,,
+98,Jeans,High-Rise Jeans,3.0,96.75
+99,Shoes,Formal Derby,19.0,281.91
+100,,,5.0,1187.5
+101,Tshirts,V-Neck Cotton Tee,12.0,1887.69
+102,Water bottles,Copper Bottle,1.0,52.3
+103,Perfumes,Dior Sauvage,20.0,1043.09
+104,Perfumes,Dior Sauvage,18.0,6045.32
+105,Smart Phone,Redmi Note 12,11.0,3581.33
+106,Smart Phone,Pixel 7 Pro,,
+107,Tshirts,Classic Crew Tee,12.0,5144.04
+108,Perfumes,Chanel No.5,3.0,1072.83
+109,Shoes,Hiking Shoes,10.0,2929.74
+110,Tshirts,Classic Crew Tee,1.0,176.58
+111,Perfumes,Chanel No.5,5.0,626.32
+112,Water bottles,Plastic Sports Bottle,16.0,6036.52
+113,,,,
+114,Water bottles,Copper Bottle,6.0,2312.69
+115,Jeans,Regular Fit Jeans,12.0,4603.11
+116,Tshirts,Long Sleeve Tee,13.0,164.32
+117,Jeans,Distressed Denim,4.0,481.69
+118,Jeans,Bootcut Jeans,3.0,982.69
+119,Water bottles,Glass Water Bottle,,
+120,Perfumes,Armani Code,18.0,1227.13
+121,Shoes,Ankle Boots,5.0,540.34
+122,Smart Phone,OnePlus 11,16.0,3980.42
+123,Smart Phone,iPhone 14,16.0,7756.01
+124,Perfumes,Chanel No.5,3.0,247.47
+125,Smart Phone,Galaxy S23,8.0,2857.32
+126,Shoes,Leather Loafers,13.0,4171.06
+127,Jeans,Bootcut Jeans,14.0,6756.38
+128,,,2.0,856.94
+129,,,20.0,8876.22
+130,Jeans,Bootcut Jeans,8.0,3236.79
+131,Tshirts,Henley T-Shirt,18.0,1919.35
+132,Perfumes,Dior Sauvage,1.0,53.67
+133,Tshirts,V-Neck Cotton Tee,10.0,1713.65
+134,Perfumes,Gucci Bloom,20.0,4836.65
+135,Tshirts,Polo T-Shirt,13.0,2183.76
+136,Shoes,Hiking Shoes,13.0,458.04
+137,Smart Phone,Realme GT Neo,9.0,985.31
+138,Perfumes,Versace Eros,7.0,2877.27
+139,Tshirts,Henley T-Shirt,17.0,2008.09
+140,Water bottles,Collapsible Bottle,16.0,3980.84
+141,Tshirts,Henley T-Shirt,7.0,1494.79
+142,Jeans,Bootcut Jeans,6.0,885.73
+143,Shoes,Running Shoes,10.0,1011.18
+144,Shoes,Formal Derby,4.0,152.68
+145,Water bottles,Steel Flask 1L,9.0,433.51
+146,Jeans,Straight Cut Jeans,10.0,3478.4
+147,Water bottles,Steel Flask 1L,3.0,138.68
+148,Water bottles,Plastic Sports Bottle,12.0,594.59
+149,Water bottles,Copper Bottle,11.0,3603.95
+150,Smart Phone,iPhone 14,2.0,950.91
+151,Smart Phone,Pixel 7 Pro,10.0,4212.46
+152,Jeans,Slim Fit Jeans,10.0,4307.37
+153,Jeans,Straight Cut Jeans,20.0,1599.76
+154,Water bottles,Collapsible Bottle,3.0,1194.26
+155,Water bottles,Copper Bottle,8.0,3835.97
+156,Shoes,Hiking Shoes,18.0,1125.79
+157,Smart Phone,Realme GT Neo,18.0,1551.05
+158,Water bottles,Insulated Bottle,12.0,3952.64
+159,Tshirts,Polo T-Shirt,8.0,2366.58
+160,,,19.0,1795.18
+161,Jeans,Straight Cut Jeans,16.0,7213.02
+162,,,12.0,1249.27
+163,Water bottles,Plastic Sports Bottle,17.0,7516.69
+164,Jeans,Regular Fit Jeans,3.0,1364.92
+165,Water bottles,Glass Water Bottle,,
+166,Tshirts,Classic Crew Tee,5.0,2030.84
+167,Water bottles,Collapsible Bottle,11.0,4109.82
+168,Jeans,Slim Fit Jeans,3.0,1289.47
+169,Jeans,Slim Fit Jeans,1.0,246.49
+170,Jeans,High-Rise Jeans,18.0,7423.98
+171,Perfumes,CK One,9.0,3679.9
+172,Tshirts,Polo T-Shirt,19.0,6880.82
+173,Shoes,Canvas Sneakers,2.0,379.64
+174,Jeans,Slim Fit Jeans,4.0,1266.82
+175,Smart Phone,Galaxy S23,15.0,7157.89
+176,Jeans,Bootcut Jeans,,
+177,Smart Phone,Pixel 7 Pro,5.0,1238.57
+178,,,4.0,1430.33
+179,Tshirts,Henley T-Shirt,,
+180,Tshirts,V-Neck Cotton Tee,19.0,3570.44
+181,Smart Phone,Pixel 7 Pro,8.0,1287.42
+182,Tshirts,Graphic Printed Tee,18.0,7584.37
+183,Shoes,Formal Derby,18.0,6424.86
+184,Shoes,Running Shoes,16.0,3947.54
+185,Smart Phone,Redmi Note 12,20.0,5446.14
+186,Perfumes,CK One,5.0,1499.6
+187,Smart Phone,iPhone 14,14.0,5639.85
+188,Shoes,Hiking Shoes,9.0,1976.98
+189,Shoes,Ankle Boots,16.0,4474.38
+190,Shoes,Hiking Shoes,7.0,1010.07
+191,Jeans,Bootcut Jeans,15.0,3332.31
+192,Shoes,Canvas Sneakers,1.0,473.5
+193,Water bottles,Glass Water Bottle,14.0,2583.16
+194,Shoes,Ankle Boots,11.0,221.2
+195,,,,
+196,Smart Phone,Realme GT Neo,4.0,480.08
+197,Jeans,Slim Fit Jeans,2.0,218.58
+198,Water bottles,Copper Bottle,8.0,1337.33
+199,Tshirts,Graphic Printed Tee,1.0,361.72
+200,Tshirts,V-Neck Cotton Tee,11.0,1093.34
+201,Smart Phone,iPhone 14,5.0,1901.83
+202,Water bottles,Insulated Bottle,18.0,3713.02
+203,Shoes,Canvas Sneakers,7.0,3089.07
+204,Shoes,Formal Derby,20.0,3408.95
+205,Water bottles,Insulated Bottle,8.0,809.75
+206,Water bottles,Copper Bottle,12.0,2932.32
+207,Jeans,Regular Fit Jeans,17.0,1525.41
+208,Shoes,Formal Derby,4.0,1850.34
+209,Tshirts,Henley T-Shirt,7.0,898.43
+210,Perfumes,Gucci Bloom,6.0,2062.55
+211,Shoes,Canvas Sneakers,12.0,5932.78
+212,Water bottles,Copper Bottle,,
+213,Smart Phone,OnePlus 11,2.0,413.93
+214,Jeans,Regular Fit Jeans,2.0,195.66
+215,Jeans,Regular Fit Jeans,19.0,9403.35
+216,,,5.0,780.66
+217,Shoes,Canvas Sneakers,8.0,3960.78
+218,Tshirts,Graphic Printed Tee,14.0,6576.9
+219,Water bottles,Steel Flask 1L,14.0,1296.94
+220,,,,
+221,Jeans,Bootcut Jeans,15.0,597.2
+222,,,,
+223,Jeans,Regular Fit Jeans,1.0,61.65
+224,Shoes,Formal Derby,12.0,1953.46
+225,Tshirts,Graphic Printed Tee,7.0,2071.92
+226,Smart Phone,Galaxy S23,11.0,3020.33
+227,Tshirts,Long Sleeve Tee,12.0,5487.72
+228,Water bottles,Collapsible Bottle,16.0,7976.53
+229,Tshirts,Long Sleeve Tee,2.0,666.08
+230,Shoes,Leather Loafers,5.0,2390.48
+231,Perfumes,Gucci Bloom,9.0,1286.72
+232,Water bottles,Steel Flask 1L,5.0,906.78
+233,Shoes,Leather Loafers,19.0,1882.54
+234,Tshirts,Henley T-Shirt,15.0,2750.63
+235,Water bottles,Insulated Bottle,16.0,7699.23
+236,Perfumes,Chanel No.5,2.0,735.32
+237,Tshirts,Classic Crew Tee,8.0,1435.51
+238,Tshirts,Long Sleeve Tee,15.0,4770.71
+239,Jeans,High-Rise Jeans,18.0,2308.4
+240,Perfumes,Gucci Bloom,12.0,517.52
+241,,,5.0,2408.44
+242,Water bottles,Plastic Sports Bottle,12.0,444.55
+243,Perfumes,Versace Eros,6.0,2106.76
+244,Perfumes,CK One,2.0,887.24
+245,,,,
+246,Perfumes,Versace Eros,8.0,1419.19
+247,Smart Phone,Pixel 7 Pro,8.0,3112.1
+248,Water bottles,Glass Water Bottle,7.0,2402.28
+249,Perfumes,Versace Eros,4.0,585.6
+250,Water bottles,Insulated Bottle,11.0,430.24
